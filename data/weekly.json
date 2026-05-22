@@ -1,0 +1,172 @@
+[
+  {
+    "id": "2026-W19",
+    "week": "2026-W19",
+    "sortKey": "2026-W19",
+    "title": "前沿观察员周报",
+    "excerpt": "1. Simon Willison最新更新（2026-05-05）：datasette-referrer-policy 0.1... datasette-referrer-policy 0.1 Release: datasette-referrer-policy 0.1 The OpenStreet...",
+    "sourcePath": "WORKSPACE_DIR/reports/weekly/2026-W19.md",
+    "tags": [
+      "Simon Willison",
+      "本周亮点",
+      "核心观点",
+      "Naval Ravikant",
+      "Eugene Yan",
+      "Sahil Bloom",
+      "Andrej Karpathy",
+      "Simon Willison最新更新",
+      "datasette-referrer-policy 0.1",
+      "Our AI started a cafe in Stockholm",
+      "‘Nothing Ever Happens’ Is Over",
+      "How to Work and Compound with AI",
+      "My Take on The New Apple"
+    ],
+    "highlights": [
+      "Simon Willison最新更新（2026-05-05）：datasette-referrer-policy 0.1..."
+    ],
+    "entries": [
+      {
+        "person": "Simon Willison",
+        "title": "datasette-referrer-policy 0.1",
+        "excerpt": "Release: datasette-referrer-policy 0.1 The OpenStreetMap tiles on the Datasette global-power-plants demo weren't displaying correctly. This turned out to be caused by two bugs. The first is that the C",
+        "date": "2026-05-05",
+        "url": "https://simonwillison.net/2026/May/5/datasette-referrer-policy/atom-everything"
+      },
+      {
+        "person": "Simon Willison",
+        "title": "Our AI started a cafe in Stockholm",
+        "excerpt": "Our AI started a cafe in Stockholm Andon Labs previously started an AI-run retail store in San Francisco. Now they're running a similar experiment in Stockholm, Sweden, only this time it's a cafe. The",
+        "date": "2026-05-05",
+        "url": "https://simonwillison.net/2026/May/5/our-ai-started-a-cafe-in-stockholm/atom-everything"
+      },
+      {
+        "person": "Naval Ravikant",
+        "title": "‘Nothing Ever Happens’ Is Over",
+        "excerpt": "You’re listening to the Naval Podcast. This is Nivi. There’s no set topic for this episode—it will be a potpourri. The Fully Interconnected Startup Naval, how are you using AI at Impossible, your curr",
+        "date": "2026-05-04",
+        "url": "https://nav.al/over"
+      },
+      {
+        "person": "Eugene Yan",
+        "title": "How to Work and Compound with AI",
+        "excerpt": "Context as infra, taste as config, verification for autonomy, scale via delegation, closing the loop.",
+        "date": "2026-05-03",
+        "url": "https://eugeneyan.com//writing/working-with-ai/"
+      },
+      {
+        "person": "Sahil Bloom",
+        "title": "The Streetlight Effect: Why Smart People Look In The Wrong Places",
+        "excerpt": "watch on YouTube or read and listen on sahilbloom.com",
+        "date": "2026-05-01",
+        "url": "https://sahilbloom.substack.com/p/the-streetlight-effect-why-smart"
+      },
+      {
+        "person": "Andrej Karpathy",
+        "title": "My Take on The New Apple",
+        "excerpt": "Apple turnover Quinn’s Apple video: https://youtu.be/e1E-yfcKdUw?si=79V91XbUcjSwmE61 MKBHD Merch: http://shop.MKBHD.com Playlist of MKBHD Intro music: https://goo.gl/B3AWV5 ~ http://twitter.com/MKBHD",
+        "date": "2026-04-29",
+        "url": "https://www.youtube.com/watch?v=i9TvUGeTltE"
+      }
+    ],
+    "sections": [
+      {
+        "title": "本周亮点",
+        "excerpt": "1. Simon Willison最新更新（2026-05-05）：datasette-referrer-policy 0.1...",
+        "html": "<ol>\n<li><strong>Simon Willison最新更新</strong>（2026-05-05）：datasette-referrer-policy 0.1...</li>\n</ol>"
+      },
+      {
+        "title": "核心观点",
+        "excerpt": "datasette-referrer-policy 0.1 Release: datasette-referrer-policy 0.1 The OpenStreetMap tiles on the Datasette global-power-plants demo weren't display...",
+        "html": "<h4>Simon Willison</h4>\n<p><strong>datasette-referrer-policy 0.1</strong></p>\n<blockquote>Release: datasette-referrer-policy 0.1 The OpenStreetMap tiles on the Datasette global-power-plants demo weren&#039;t displaying correctly. This turned out to be caused by two bugs. The first is that the C</blockquote>\n<p><strong>发布时间</strong>：2026-05-05</p>\n<p><strong>原文链接</strong>：https://simonwillison.net/2026/May/5/datasette-referrer-policy/#atom-everything</p>\n<hr>\n<h4>Simon Willison</h4>\n<p><strong>Our AI started a cafe in Stockholm</strong></p>\n<blockquote>Our AI started a cafe in Stockholm Andon Labs previously started an AI-run retail store in San Francisco. Now they&#039;re running a similar experiment in Stockholm, Sweden, only this time it&#039;s a cafe. The</blockquote>\n<p><strong>发布时间</strong>：2026-05-05</p>\n<p><strong>原文链接</strong>：https://simonwillison.net/2026/May/5/our-ai-started-a-cafe-in-stockholm/#atom-everything</p>\n<hr>\n<h4>Naval Ravikant</h4>\n<p><strong>‘Nothing Ever Happens’ Is Over</strong></p>\n<blockquote>You’re listening to the Naval Podcast. This is Nivi. There’s no set topic for this episode—it will be a potpourri. The Fully Interconnected Startup Naval, how are you using AI at Impossible, your curr</blockquote>\n<p><strong>发布时间</strong>：2026-05-04</p>\n<p><strong>原文链接</strong>：https://nav.al/over</p>\n<hr>\n<h4>Eugene Yan</h4>\n<p><strong>How to Work and Compound with AI</strong></p>\n<blockquote>Context as infra, taste as config, verification for autonomy, scale via delegation, closing the loop.</blockquote>\n<p><strong>发布时间</strong>：2026-05-03</p>\n<p><strong>原文链接</strong>：https://eugeneyan.com//writing/working-with-ai/</p>\n<hr>\n<h4>Sahil Bloom</h4>\n<p><strong>The Streetlight Effect: Why Smart People Look In The Wrong Places</strong></p>\n<blockquote>watch on YouTube or read and listen on sahilbloom.com&amp;#8203;</blockquote>\n<p><strong>发布时间</strong>：2026-05-01</p>\n<p><strong>原文链接</strong>：https://sahilbloom.substack.com/p/the-streetlight-effect-why-smart</p>\n<hr>\n<h4>Andrej Karpathy</h4>\n<p><strong>My Take on The New Apple</strong></p>\n<blockquote>Apple turnover Quinn’s Apple video: <a href=\"https://youtu.be/e1E-yfcKdUw?si=79V91XbUcjSwmE61\" target=\"_blank\" rel=\"noreferrer\">https://youtu.be/e1E-yfcKdUw?si=79V91XbUcjSwmE61</a> MKBHD Merch: <a href=\"http://shop.MKBHD.com\" target=\"_blank\" rel=\"noreferrer\">http://shop.MKBHD.com</a> Playlist of MKBHD Intro music: <a href=\"https://goo.gl/B3AWV5\" target=\"_blank\" rel=\"noreferrer\">https://goo.gl/B3AWV5</a> ~ <a href=\"http://twitter.com/MKBHD\" target=\"_blank\" rel=\"noreferrer\">http://twitter.com/MKBHD</a></blockquote>\n<p><strong>发布时间</strong>：2026-04-29</p>\n<p><strong>原文链接</strong>：https://www.youtube.com/watch?v=i9TvUGeTltE</p>\n<hr>"
+      }
+    ],
+    "html": "<h2>前沿观察员周报</h2>\n<p><strong>报告时间</strong>：2026年05月06日（Wed）</p>\n<hr>\n<h3>本周亮点</h3>\n<ol>\n<li><strong>Simon Willison最新更新</strong>（2026-05-05）：datasette-referrer-policy 0.1...</li>\n</ol>\n<h3>核心观点</h3>\n<h4>Simon Willison</h4>\n<p><strong>datasette-referrer-policy 0.1</strong></p>\n<blockquote>Release: datasette-referrer-policy 0.1 The OpenStreetMap tiles on the Datasette global-power-plants demo weren&#039;t displaying correctly. This turned out to be caused by two bugs. The first is that the C</blockquote>\n<p><strong>发布时间</strong>：2026-05-05</p>\n<p><strong>原文链接</strong>：https://simonwillison.net/2026/May/5/datasette-referrer-policy/#atom-everything</p>\n<hr>\n<h4>Simon Willison</h4>\n<p><strong>Our AI started a cafe in Stockholm</strong></p>\n<blockquote>Our AI started a cafe in Stockholm Andon Labs previously started an AI-run retail store in San Francisco. Now they&#039;re running a similar experiment in Stockholm, Sweden, only this time it&#039;s a cafe. The</blockquote>\n<p><strong>发布时间</strong>：2026-05-05</p>\n<p><strong>原文链接</strong>：https://simonwillison.net/2026/May/5/our-ai-started-a-cafe-in-stockholm/#atom-everything</p>\n<hr>\n<h4>Naval Ravikant</h4>\n<p><strong>‘Nothing Ever Happens’ Is Over</strong></p>\n<blockquote>You’re listening to the Naval Podcast. This is Nivi. There’s no set topic for this episode—it will be a potpourri. The Fully Interconnected Startup Naval, how are you using AI at Impossible, your curr</blockquote>\n<p><strong>发布时间</strong>：2026-05-04</p>\n<p><strong>原文链接</strong>：https://nav.al/over</p>\n<hr>\n<h4>Eugene Yan</h4>\n<p><strong>How to Work and Compound with AI</strong></p>\n<blockquote>Context as infra, taste as config, verification for autonomy, scale via delegation, closing the loop.</blockquote>\n<p><strong>发布时间</strong>：2026-05-03</p>\n<p><strong>原文链接</strong>：https://eugeneyan.com//writing/working-with-ai/</p>\n<hr>\n<h4>Sahil Bloom</h4>\n<p><strong>The Streetlight Effect: Why Smart People Look In The Wrong Places</strong></p>\n<blockquote>watch on YouTube or read and listen on sahilbloom.com&amp;#8203;</blockquote>\n<p><strong>发布时间</strong>：2026-05-01</p>\n<p><strong>原文链接</strong>：https://sahilbloom.substack.com/p/the-streetlight-effect-why-smart</p>\n<hr>\n<h4>Andrej Karpathy</h4>\n<p><strong>My Take on The New Apple</strong></p>\n<blockquote>Apple turnover Quinn’s Apple video: <a href=\"https://youtu.be/e1E-yfcKdUw?si=79V91XbUcjSwmE61\" target=\"_blank\" rel=\"noreferrer\">https://youtu.be/e1E-yfcKdUw?si=79V91XbUcjSwmE61</a> MKBHD Merch: <a href=\"http://shop.MKBHD.com\" target=\"_blank\" rel=\"noreferrer\">http://shop.MKBHD.com</a> Playlist of MKBHD Intro music: <a href=\"https://goo.gl/B3AWV5\" target=\"_blank\" rel=\"noreferrer\">https://goo.gl/B3AWV5</a> ~ <a href=\"http://twitter.com/MKBHD\" target=\"_blank\" rel=\"noreferrer\">http://twitter.com/MKBHD</a></blockquote>\n<p><strong>发布时间</strong>：2026-04-29</p>\n<p><strong>原文链接</strong>：https://www.youtube.com/watch?v=i9TvUGeTltE</p>\n<hr>"
+  },
+  {
+    "id": "2026-W18",
+    "week": "2026-W18",
+    "sortKey": "2026-W18",
+    "title": "2026年第18周 - 前沿思想者趋势追踪",
+    "excerpt": "- 核心观点：AI 编码代理可以在手机上构建定制应用，这是 iPhone 主导地位终结的开始 - 原文：https://nav.al/code - 关联：OpenClaw 的 ACP harness 正是这种实践 - 核心观点：露营时用手机 + Claude Code 构建工具，3天发布3个工具 -...",
+    "sourcePath": "WORKSPACE_DIR/reports/weekly/2026-W18.md",
+    "tags": [
+      "核心观点",
+      "原文",
+      "本周三大发现",
+      "1️⃣ Naval 回归编码：Vibe Coding 时代",
+      "2️⃣ Simon Willison：手机 AI 编程实践",
+      "3️⃣ Dan Koe：创作者经济成熟期",
+      "趋势洞察",
+      "Vibe Coding 成为现实",
+      "个人应用商店时代",
+      "我们可以怎么做",
+      "下周追踪重点",
+      "拥抱 vibe coding",
+      "服务创作者经济",
+      "降低 AI 编程门槛",
+      "报告生成时间",
+      "追踪周次"
+    ],
+    "highlights": [],
+    "entries": [
+      {
+        "person": "1️⃣ Naval 回归编码：Vibe Coding 时代",
+        "title": "",
+        "excerpt": "- 核心观点：AI 编码代理可以在手机上构建定制应用，这是 iPhone 主导地位终结的开始 - 原文：https://nav.al/code - 关联：OpenClaw 的 ACP harness 正是这种实践",
+        "date": "",
+        "url": ""
+      },
+      {
+        "person": "2️⃣ Simon Willison：手机 AI 编程实践",
+        "title": "",
+        "excerpt": "- 核心观点：露营时用手机 + Claude Code 构建工具，3天发布3个工具 - 原文：https://simonwillison.net/2026/May/2/sightings/ - 关联：vibe coding 的最佳实践者",
+        "date": "",
+        "url": ""
+      },
+      {
+        "person": "3️⃣ Dan Koe：创作者经济成熟期",
+        "title": "",
+        "excerpt": "- 核心观点：推广6月活动，帮助创作者建立\"未来proof业务\" - 原文：https://letters.thedankoe.com/p/7-days-to-lock-it-in - 关联：一人企业模式兴起，知识包装是核心能力",
+        "date": "",
+        "url": ""
+      },
+      {
+        "person": "Vibe Coding 成为现实",
+        "title": "",
+        "excerpt": "- Naval（几十年没编码）和 Simon 都在用 AI 编程 - 手机就能构建应用，开发门槛降到最低 - 发布应该像写博客一样频繁",
+        "date": "",
+        "url": ""
+      },
+      {
+        "person": "个人应用商店时代",
+        "title": "",
+        "excerpt": "- 每个人都可以有自己的\"应用商店\" - AI 代理让应用定制化成为可能 1. 拥抱 vibe coding：小工具、快速迭代、高频发布 2. 服务创作者经济：帮助 Dan Koe 受众快速构建工具 3. 降低 AI 编程门槛：分享 vibe coding 案例 - vibe coding 更多案例...",
+        "date": "",
+        "url": ""
+      }
+    ],
+    "sections": [
+      {
+        "title": "本周三大发现",
+        "excerpt": "- 核心观点：AI 编码代理可以在手机上构建定制应用，这是 iPhone 主导地位终结的开始 - 原文：https://nav.al/code - 关联：OpenClaw 的 ACP harness 正是这种实践 - 核心观点：露营时用手机 + Claude Code 构建工具，3天发布3个工具 -...",
+        "html": "<h4>1️⃣ Naval 回归编码：Vibe Coding 时代</h4>\n<ul>\n<li><strong>核心观点</strong>：AI 编码代理可以在手机上构建定制应用，这是 iPhone 主导地位终结的开始</li>\n<li><strong>原文</strong>：https://nav.al/code</li>\n<li><strong>关联</strong>：OpenClaw 的 ACP harness 正是这种实践</li>\n</ul>\n<h4>2️⃣ Simon Willison：手机 AI 编程实践</h4>\n<ul>\n<li><strong>核心观点</strong>：露营时用手机 + Claude Code 构建工具，3天发布3个工具</li>\n<li><strong>原文</strong>：https://simonwillison.net/2026/May/2/sightings/</li>\n<li><strong>关联</strong>：vibe coding 的最佳实践者</li>\n</ul>\n<h4>3️⃣ Dan Koe：创作者经济成熟期</h4>\n<ul>\n<li><strong>核心观点</strong>：推广6月活动，帮助创作者建立&quot;未来proof业务&quot;</li>\n<li><strong>原文</strong>：https://letters.thedankoe.com/p/7-days-to-lock-it-in</li>\n<li><strong>关联</strong>：一人企业模式兴起，知识包装是核心能力</li>\n</ul>"
+      },
+      {
+        "title": "趋势洞察",
+        "excerpt": "- Naval（几十年没编码）和 Simon 都在用 AI 编程 - 手机就能构建应用，开发门槛降到最低 - 发布应该像写博客一样频繁 - 每个人都可以有自己的\"应用商店\" - AI 代理让应用定制化成为可能",
+        "html": "<h4>Vibe Coding 成为现实</h4>\n<ul>\n<li>Naval（几十年没编码）和 Simon 都在用 AI 编程</li>\n<li>手机就能构建应用，开发门槛降到最低</li>\n<li>发布应该像写博客一样频繁</li>\n</ul>\n<h4>个人应用商店时代</h4>\n<ul>\n<li>每个人都可以有自己的&quot;应用商店&quot;</li>\n<li>AI 代理让应用定制化成为可能</li>\n</ul>"
+      },
+      {
+        "title": "我们可以怎么做",
+        "excerpt": "1. 拥抱 vibe coding：小工具、快速迭代、高频发布 2. 服务创作者经济：帮助 Dan Koe 受众快速构建工具 3. 降低 AI 编程门槛：分享 vibe coding 案例",
+        "html": "<ol>\n<li><strong>拥抱 vibe coding</strong>：小工具、快速迭代、高频发布</li>\n<li><strong>服务创作者经济</strong>：帮助 Dan Koe 受众快速构建工具</li>\n<li><strong>降低 AI 编程门槛</strong>：分享 vibe coding 案例</li>\n</ol>"
+      },
+      {
+        "title": "下周追踪重点",
+        "excerpt": "- vibe coding 更多案例 - 创作者工具需求 - AI 代理极限 报告生成时间：2026-05-03 追踪周次：2026年第18周 下次更新：2026年第19周",
+        "html": "<ul>\n<li>vibe coding 更多案例</li>\n<li>创作者工具需求</li>\n<li>AI 代理极限</li>\n</ul>\n<hr>\n<p><strong>报告生成时间</strong>：2026-05-03 <strong>追踪周次</strong>：2026年第18周 <strong>下次更新</strong>：2026年第19周</p>"
+      }
+    ],
+    "html": "<h2>2026年第18周 - 前沿思想者趋势追踪</h2>\n<h3>本周三大发现</h3>\n<h4>1️⃣ Naval 回归编码：Vibe Coding 时代</h4>\n<ul>\n<li><strong>核心观点</strong>：AI 编码代理可以在手机上构建定制应用，这是 iPhone 主导地位终结的开始</li>\n<li><strong>原文</strong>：https://nav.al/code</li>\n<li><strong>关联</strong>：OpenClaw 的 ACP harness 正是这种实践</li>\n</ul>\n<h4>2️⃣ Simon Willison：手机 AI 编程实践</h4>\n<ul>\n<li><strong>核心观点</strong>：露营时用手机 + Claude Code 构建工具，3天发布3个工具</li>\n<li><strong>原文</strong>：https://simonwillison.net/2026/May/2/sightings/</li>\n<li><strong>关联</strong>：vibe coding 的最佳实践者</li>\n</ul>\n<h4>3️⃣ Dan Koe：创作者经济成熟期</h4>\n<ul>\n<li><strong>核心观点</strong>：推广6月活动，帮助创作者建立&quot;未来proof业务&quot;</li>\n<li><strong>原文</strong>：https://letters.thedankoe.com/p/7-days-to-lock-it-in</li>\n<li><strong>关联</strong>：一人企业模式兴起，知识包装是核心能力</li>\n</ul>\n<h3>趋势洞察</h3>\n<h4>Vibe Coding 成为现实</h4>\n<ul>\n<li>Naval（几十年没编码）和 Simon 都在用 AI 编程</li>\n<li>手机就能构建应用，开发门槛降到最低</li>\n<li>发布应该像写博客一样频繁</li>\n</ul>\n<h4>个人应用商店时代</h4>\n<ul>\n<li>每个人都可以有自己的&quot;应用商店&quot;</li>\n<li>AI 代理让应用定制化成为可能</li>\n</ul>\n<h3>我们可以怎么做</h3>\n<ol>\n<li><strong>拥抱 vibe coding</strong>：小工具、快速迭代、高频发布</li>\n<li><strong>服务创作者经济</strong>：帮助 Dan Koe 受众快速构建工具</li>\n<li><strong>降低 AI 编程门槛</strong>：分享 vibe coding 案例</li>\n</ol>\n<h3>下周追踪重点</h3>\n<ul>\n<li>vibe coding 更多案例</li>\n<li>创作者工具需求</li>\n<li>AI 代理极限</li>\n</ul>\n<hr>\n<p><strong>报告生成时间</strong>：2026-05-03 <strong>追踪周次</strong>：2026年第18周 <strong>下次更新</strong>：2026年第19周</p>"
+  }
+]

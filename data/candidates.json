@@ -1,0 +1,106 @@
+[
+  {
+    "id": "2026-05-07",
+    "date": "2026-05-07",
+    "sortKey": "2026-05-07",
+    "title": "每日前沿探索 - 2026-05-07",
+    "excerpt": "- 搜索关键词：5个 - 发现新思想者：4位 - 进入候选清单：4位 - 领域：AI Agent框架、RAG、LLM应用开发 - 关联度：★★★★★（AI Agent基础设施核心人物） - 价值：LangChain是AI Agent开发的标配框架 - 链接： - Twitter: @hwchase2...",
+    "sourcePath": "WORKSPACE_DIR/candidates/daily/2026-05-07.md",
+    "candidates": [
+      {
+        "name": "Harrison Chase",
+        "role": "LangChain创始人",
+        "level": "一级候选（3人）",
+        "fields": {
+          "领域": "AI Agent框架、RAG、LLM应用开发",
+          "关联度": "★★★★★（AI Agent基础设施核心人物）",
+          "价值": "LangChain是AI Agent开发的标配框架",
+          "推荐理由": "构建了AI Agent开发的基础设施，\"写代码的布道者\"，既有技术深度又有实战价值"
+        },
+        "links": [
+          {
+            "label": "Blog",
+            "url": "https://blog.langchain.dev/"
+          },
+          {
+            "label": "GitHub",
+            "url": "https://github.com/langchain-ai"
+          }
+        ]
+      },
+      {
+        "name": "Yohei Nakajima",
+        "role": "VP at Undeterred Capital",
+        "level": "一级候选（3人）",
+        "fields": {
+          "领域": "AI Agent、自动化、创业投资",
+          "关联度": "★★★★★（BabyAGI创始人，开启Agent热潮）",
+          "价值": "\"VC+Builder\"双重视角",
+          "推荐理由": "作为VC+Builder组合，同时看到技术趋势和商业机会"
+        },
+        "links": [
+          {
+            "label": "Blog",
+            "url": "https://yoheinakajima.com/"
+          }
+        ]
+      },
+      {
+        "name": "Jerry Liu",
+        "role": "LlamaIndex创始人",
+        "level": "一级候选（3人）",
+        "fields": {
+          "领域": "LLM数据连接、RAG、知识图谱",
+          "关联度": "★★★★☆（数据连接是Agent的关键）",
+          "价值": "与LangChain形成互补",
+          "推荐理由": "专注于LLM应用的数据层，与LangChain形成生态互补"
+        },
+        "links": [
+          {
+            "label": "Blog",
+            "url": "https://www.llamaindex.ai/blog"
+          },
+          {
+            "label": "GitHub",
+            "url": "https://github.com/run-llama/llama_index"
+          }
+        ]
+      },
+      {
+        "name": "Div Garg",
+        "role": "Multipl创始人",
+        "level": "二级候选（1人）",
+        "fields": {
+          "领域": "AI Agent应用实战",
+          "关联度": "★★★☆☆",
+          "价值": "AI Agent应用实战经验"
+        },
+        "links": [
+          {
+            "label": "Product",
+            "url": "https://www.multipl.ai/"
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "领域",
+      "价值",
+      "推荐理由",
+      "今日统计",
+      "今日发现",
+      "一级候选（3人）",
+      "Harrison Chase - LangChain创始人",
+      "Jerry Liu - LlamaIndex创始人",
+      "二级候选（1人）",
+      "Div Garg - Multipl创始人",
+      "值得关注",
+      "关键洞察",
+      "遇到的限制",
+      "下一步行动",
+      "立即跟进",
+      "领域扩展"
+    ],
+    "html": "<h2>每日前沿探索 - 2026-05-07</h2>\n<h3>今日统计</h3>\n<ul>\n<li>搜索关键词：5个</li>\n<li>发现新思想者：4位</li>\n<li>进入候选清单：4位</li>\n</ul>\n<h3>今日发现</h3>\n<h4>一级候选（3人）</h4>\n<h5>1. Harrison Chase - LangChain创始人</h5>\n<ul>\n<li><strong>领域</strong>：AI Agent框架、RAG、LLM应用开发</li>\n<li><strong>关联度</strong>：★★★★★（AI Agent基础设施核心人物）</li>\n<li><strong>价值</strong>：LangChain是AI Agent开发的标配框架</li>\n<li><strong>链接</strong>：</li>\n<li>Twitter: @hwchase28</li>\n<li>Blog: <a href=\"https://blog.langchain.dev/\" target=\"_blank\" rel=\"noreferrer\">https://blog.langchain.dev/</a></li>\n<li>GitHub: <a href=\"https://github.com/langchain-ai\" target=\"_blank\" rel=\"noreferrer\">https://github.com/langchain-ai</a></li>\n<li><strong>推荐理由</strong>：构建了AI Agent开发的基础设施，&quot;写代码的布道者&quot;，既有技术深度又有实战价值</li>\n</ul>\n<h5>2. Yohei Nakajima - VP at Undeterred Capital</h5>\n<ul>\n<li><strong>领域</strong>：AI Agent、自动化、创业投资</li>\n<li><strong>关联度</strong>：★★★★★（BabyAGI创始人，开启Agent热潮）</li>\n<li><strong>价值</strong>：&quot;VC+Builder&quot;双重视角</li>\n<li><strong>链接</strong>：</li>\n<li>Twitter: @yoheinakajima</li>\n<li>Blog: <a href=\"https://yoheinakajima.com/\" target=\"_blank\" rel=\"noreferrer\">https://yoheinakajima.com/</a></li>\n<li><strong>推荐理由</strong>：作为VC+Builder组合，同时看到技术趋势和商业机会</li>\n</ul>\n<h5>3. Jerry Liu - LlamaIndex创始人</h5>\n<ul>\n<li><strong>领域</strong>：LLM数据连接、RAG、知识图谱</li>\n<li><strong>关联度</strong>：★★★★☆（数据连接是Agent的关键）</li>\n<li><strong>价值</strong>：与LangChain形成互补</li>\n<li><strong>链接</strong>：</li>\n<li>Twitter: @jerryjliu</li>\n<li>Blog: <a href=\"https://www.llamaindex.ai/blog\" target=\"_blank\" rel=\"noreferrer\">https://www.llamaindex.ai/blog</a></li>\n<li>GitHub: <a href=\"https://github.com/run-llama/llama_index\" target=\"_blank\" rel=\"noreferrer\">https://github.com/run-llama/llama_index</a></li>\n<li><strong>推荐理由</strong>：专注于LLM应用的数据层，与LangChain形成生态互补</li>\n</ul>\n<h4>二级候选（1人）</h4>\n<h5>4. Div Garg - Multipl创始人</h5>\n<ul>\n<li><strong>领域</strong>：AI Agent应用实战</li>\n<li><strong>关联度</strong>：★★★☆☆</li>\n<li><strong>价值</strong>：AI Agent应用实战经验</li>\n<li><strong>链接</strong>：</li>\n<li>Twitter: @divgarg9</li>\n<li>Product: <a href=\"https://www.multipl.ai/\" target=\"_blank\" rel=\"noreferrer\">https://www.multipl.ai/</a></li>\n</ul>\n<h3>值得关注</h3>\n<h4>关键洞察</h4>\n<ol>\n<li><strong>框架生态比单点工具更重要</strong>：LangChain和LlamaIndex构建了AI Agent的基础设施生态</li>\n<li><strong>实践者理论化趋势</strong>：Harrison和Jerry都是&quot;写代码的布道者&quot;，既有技术深度又有实战价值</li>\n<li><strong>VC视角的独特性</strong>：Yohei作为VC+Builder组合，同时看到技术趋势和商业机会</li>\n</ol>\n<h4>遇到的限制</h4>\n<ul>\n<li>中文搜索引擎对英文Twitter内容检索有限</li>\n<li>无法直接访问Product Hunt、Hacker News等需登录的社区</li>\n<li>建议后续使用brave-browser-agent进行深度抓取</li>\n</ul>\n<h3>下一步行动</h3>\n<h4>立即跟进</h4>\n<ul>\n<li>[ ] 深度研究Harrison Chase：阅读LangChain博客最近3篇文章</li>\n<li>[ ] 研究Jerry Liu：查看LlamaIndex最新功能</li>\n<li>[ ] 追踪Yohei Nakajima：查看其最新Agent实验</li>\n<li>[ ] 比较LangChain vs LlamaIndex的定位差异</li>\n</ul>\n<h4>领域扩展</h4>\n<ul>\n<li>[ ] 挖掘产品设计思想者：Julie Zhuo、John Maeda、Don Norman</li>\n</ul>\n<h3>决策建议</h3>\n<h4>加入一级关注（立即）</h4>\n<ul>\n<li>✅ Harrison Chase - AI Agent框架核心人物</li>\n<li>✅ Yohei Nakajima - BabyAGI创始人，VC+Builder视角</li>\n<li>✅ Jerry Liu - LlamaIndex创始人，数据层专家</li>\n</ul>\n<h4>加入二级关注（观察）</h4>\n<ul>\n<li>✅ Div Garg - AI Agent应用实战经验</li>\n</ul>"
+  }
+]

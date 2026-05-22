@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>前沿观察 | Dashboard</title>
+    <link rel="stylesheet" href="./styles.css">
+  </head>
+  <body data-page="dashboard">
+    <aside class="sidebar" aria-label="主导航">
+      <a class="brand" href="./index.html" aria-label="前沿观察首页">
+        <span class="brand-mark">🔭</span>
+        <span><strong>前沿观察</strong><small>Frontier Observer</small></span>
+      </a>
+      <nav class="nav-list">
+        <a href="./index.html" data-nav="dashboard"><span>📡</span> Dashboard</a>
+        <a href="./daily.html" data-nav="daily"><span>🔥</span> 日报</a>
+        <a href="./weekly.html" data-nav="weekly"><span>🧭</span> 周报</a>
+        <a href="./thinkers.html" data-nav="thinkers"><span>🧠</span> 思想者</a>
+      </nav>
+      <div class="sidebar-meta"><span>静态数据</span><strong id="nav-sync-time">同步中...</strong></div>
+    </aside>
+    <main class="main-shell">
+      <header class="page-header">
+        <div>
+          <p class="eyebrow">前沿观察员数据看板</p>
+          <h1>今日前沿雷达</h1>
+          <p class="page-subtitle">聚合日报热点、思想者周报和最近 7 天话题趋势。</p>
+        </div>
+        <div class="header-actions"><span class="status-pill"><span class="pulse"></span> JSON Ready</span><a class="ghost-link" href="./data/dashboard.json">dashboard.json</a></div>
+      </header>
+      <section id="app" class="content-flow" aria-live="polite"><div class="loading">正在加载观察数据...</div></section>
+    </main>
+    <script type="module" src="./app.js"></script>
+  </body>
+</html>

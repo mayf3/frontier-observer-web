@@ -1,0 +1,14 @@
+{
+  "generatedAt": "2026-05-08T23:21:55.253Z",
+  "source": {
+    "reports": "WORKSPACE_DIR/reports",
+    "candidates": "WORKSPACE_DIR/candidates"
+  },
+  "counts": {
+    "daily": 1,
+    "weekly": 2,
+    "topics": 1,
+    "candidates": 1,
+    "thinkers": 11
+  }
+}

@@ -1,0 +1,37 @@
+[
+  {
+    "id": "2026-W18",
+    "week": "2026-W18",
+    "sortKey": "2026-W18",
+    "title": "前沿话题追踪",
+    "excerpt": "2026-05-08 19:43 🔥 最热领域：AI/LLM（4条讨论） ⚠️ AI讨论焦点：定价和幻觉问题成为热点 🛡️ 安全动态：隐私和安全议题值得关注 🌱 新兴领域：Remote Work, Gaming, Developer Tools - （GPT模型 · 价格 · 成本 · 涨价/...",
+    "sourcePath": "WORKSPACE_DIR/reports/topics/2026-W18.md",
+    "tags": [
+      "今日洞察",
+      "AI/LLM",
+      "其他值得关注",
+      "2026-05-08 19:43"
+    ],
+    "insights": [
+      "🔥 最热领域：AI/LLM（4条讨论）",
+      "⚠️ AI讨论焦点：定价和幻觉问题成为热点",
+      "🛡️ 安全动态：隐私和安全议题值得关注",
+      "🌱 新兴领域：Remote Work, Gaming, Developer Tools",
+      "（GPT模型 · 价格 · 成本 · 涨价/增长）",
+      "（幻觉问题 · 暂停/解雇）",
+      "（AI垃圾内容）",
+      "（基金会 · 文档基金会 · 争议）",
+      "（软件）",
+      "（医院 · 咨询顾问 · 顾问 · 数十亿）",
+      "📊 数据来源：Hacker News, Product Hunt（30条话题）"
+    ],
+    "sections": [
+      {
+        "title": "今日洞察",
+        "excerpt": "🔥 最热领域：AI/LLM（4条讨论） ⚠️ AI讨论焦点：定价和幻觉问题成为热点 🛡️ 安全动态：隐私和安全议题值得关注 🌱 新兴领域：Remote Work, Gaming, Developer Tools - （GPT模型 · 价格 · 成本 · 涨价/增长） GPT-5.5 Price...",
+        "html": "<p>🔥 最热领域：AI/LLM（4条讨论） ⚠️ AI讨论焦点：定价和幻觉问题成为热点 🛡️ 安全动态：隐私和安全议题值得关注 🌱 新兴领域：Remote Work, Gaming, Developer Tools</p>\n<h4>AI/LLM</h4>\n<ul>\n<li>（GPT模型 · 价格 · 成本 · 涨价/增长）</li>\n</ul>\n<p><a href=\"https://openrouter.ai/announcements/gpt55-cost-analysis\" target=\"_blank\" rel=\"noreferrer\">GPT-5.5 Price Increase: What It Costs</a></p>\n<ul>\n<li>（幻觉问题 · 暂停/解雇）</li>\n</ul>\n<p><a href=\"https://www.citizen.co.za/news/home-affairs-officials-suspended-ai-hallucinations/\" target=\"_blank\" rel=\"noreferrer\">Two Home Affairs officials suspended after AI &#039;hallucinations&#039; found</a></p>\n<ul>\n<li>（AI垃圾内容）</li>\n</ul>\n<p><a href=\"https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/\" target=\"_blank\" rel=\"noreferrer\">AI slop is killing online communities</a></p>\n<h4>其他值得关注</h4>\n<ul>\n<li>（基金会 · 文档基金会 · 争议）</li>\n</ul>\n<p><a href=\"https://lwn.net/Articles/1066418/\" target=\"_blank\" rel=\"noreferrer\">Digging into Drama at the Document Foundation</a></p>\n<ul>\n<li>（软件）</li>\n</ul>\n<p><a href=\"https://xeiaso.net/blog/2026/abstain-from-install/\" target=\"_blank\" rel=\"noreferrer\">Maybe you shouldn&#039;t install new software for a bit</a></p>\n<ul>\n<li>（医院 · 咨询顾问 · 顾问 · 数十亿）</li>\n</ul>\n<p><a href=\"https://www.uchicagomedicine.org/forefront/research-and-discoveries-articles/nonprofit-hospitals-spend-billions-on-management-consultants\" target=\"_blank\" rel=\"noreferrer\">Nonprofit hospitals spend billions on consultants with no clear effect</a></p>\n<hr>\n<p>📊 数据来源：Hacker News, Product Hunt（30条话题）</p>\n<p><em>由前沿观察员自动追踪</em></p>"
+      }
+    ],
+    "html": "<h2>前沿话题追踪</h2>\n<p><strong>2026-05-08 19:43</strong></p>\n<hr>\n<h3>今日洞察</h3>\n<p>🔥 最热领域：AI/LLM（4条讨论） ⚠️ AI讨论焦点：定价和幻觉问题成为热点 🛡️ 安全动态：隐私和安全议题值得关注 🌱 新兴领域：Remote Work, Gaming, Developer Tools</p>\n<h4>AI/LLM</h4>\n<ul>\n<li>（GPT模型 · 价格 · 成本 · 涨价/增长）</li>\n</ul>\n<p><a href=\"https://openrouter.ai/announcements/gpt55-cost-analysis\" target=\"_blank\" rel=\"noreferrer\">GPT-5.5 Price Increase: What It Costs</a></p>\n<ul>\n<li>（幻觉问题 · 暂停/解雇）</li>\n</ul>\n<p><a href=\"https://www.citizen.co.za/news/home-affairs-officials-suspended-ai-hallucinations/\" target=\"_blank\" rel=\"noreferrer\">Two Home Affairs officials suspended after AI &#039;hallucinations&#039; found</a></p>\n<ul>\n<li>（AI垃圾内容）</li>\n</ul>\n<p><a href=\"https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/\" target=\"_blank\" rel=\"noreferrer\">AI slop is killing online communities</a></p>\n<h4>其他值得关注</h4>\n<ul>\n<li>（基金会 · 文档基金会 · 争议）</li>\n</ul>\n<p><a href=\"https://lwn.net/Articles/1066418/\" target=\"_blank\" rel=\"noreferrer\">Digging into Drama at the Document Foundation</a></p>\n<ul>\n<li>（软件）</li>\n</ul>\n<p><a href=\"https://xeiaso.net/blog/2026/abstain-from-install/\" target=\"_blank\" rel=\"noreferrer\">Maybe you shouldn&#039;t install new software for a bit</a></p>\n<ul>\n<li>（医院 · 咨询顾问 · 顾问 · 数十亿）</li>\n</ul>\n<p><a href=\"https://www.uchicagomedicine.org/forefront/research-and-discoveries-articles/nonprofit-hospitals-spend-billions-on-management-consultants\" target=\"_blank\" rel=\"noreferrer\">Nonprofit hospitals spend billions on consultants with no clear effect</a></p>\n<hr>\n<p>📊 数据来源：Hacker News, Product Hunt（30条话题）</p>\n<p><em>由前沿观察员自动追踪</em></p>"
+  }
+]

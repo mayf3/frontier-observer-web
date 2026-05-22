@@ -1,0 +1,72 @@
+[
+  {
+    "id": "2026-05-09",
+    "date": "2026-05-09",
+    "sortKey": "2026-05-09",
+    "title": "前沿话题日报 — 2026年5月9日（周五）",
+    "excerpt": "数据源：Hacker News Top Stories、Lobsters | 抓取时间：2026-05-09 02:36 CST - 链接：https://www.openwall.com/lists/oss-security/2026/05/07/8 - 热度：HN 1181分 + 822评论 /...",
+    "sourcePath": "WORKSPACE_DIR/reports/daily/2026-05-09.md",
+    "tags": [
+      "直接相关",
+      "Mojo 1.0 Beta",
+      "今日亮点",
+      "DirtyFrag：Linux 通用本地提权漏洞（HN 1，1181分）",
+      "话题分类一览",
+      "️ 安全与隐私",
+      "编程语言与工具",
+      "AI & Agent 相关",
+      "基础设施与硬件",
+      "宏观与社会",
+      "间接启发",
+      "行动建议",
+      "DirtyFrag：Linux 通用 LPE",
+      "Google Cloud Fraud Defence = WEI 换皮",
+      "Stop MITM on first SSH connection",
+      "ClojureScript Gets Async/Await"
+    ],
+    "highlights": [
+      {
+        "title": "DirtyFrag：Linux 通用本地提权漏洞（HN 1，1181分）",
+        "url": "https://www.openwall.com/lists/oss-security/2026/05/07/8",
+        "heat": "HN 1181分 + 822评论 / Lobsters 111分 + 29评论",
+        "summary": "一个影响几乎所有 Linux 内核版本的本地提权漏洞被公开。HN 和 Lobsters 双平台同时爆了，这是本周最严重的安全事件之一。",
+        "relation": "如果你在跑 Linux 服务器，立刻关注补丁。对 AI Agent 领域来说，部署在 Linux 上的 Agent runtime 也需要关注。"
+      },
+      {
+        "title": "Cloudflare \"Building for the Future\"（HN 871分）",
+        "url": "https://blog.cloudflare.com/building-for-the-future/",
+        "heat": "871分 + 579评论",
+        "summary": "Cloudflare 发布了重大战略更新（具体内容需看博文），社区讨论极为激烈。作为互联网基础设施的关键玩家，Cloudflare 的每次大动作都值得关注。",
+        "relation": ""
+      }
+    ],
+    "sections": [
+      {
+        "title": "今日亮点",
+        "excerpt": "- 链接：https://www.openwall.com/lists/oss-security/2026/05/07/8 - 热度：HN 1181分 + 822评论 / Lobsters 111分 + 29评论 - 解读：一个影响几乎所有 Linux 内核版本的本地提权漏洞被公开。HN 和 Lob...",
+        "html": "<h4>1. DirtyFrag：Linux 通用本地提权漏洞（HN 1，1181分）</h4>\n<ul>\n<li><strong>链接</strong>：https://www.openwall.com/lists/oss-security/2026/05/07/8</li>\n<li><strong>热度</strong>：HN 1181分 + 822评论 / Lobsters 111分 + 29评论</li>\n<li><strong>解读</strong>：一个影响几乎所有 Linux 内核版本的本地提权漏洞被公开。HN 和 Lobsters 双平台同时爆了，这是本周最严重的安全事件之一。</li>\n<li><strong>关联</strong>：如果你在跑 Linux 服务器，立刻关注补丁。对 AI Agent 领域来说，部署在 Linux 上的 Agent runtime 也需要关注。</li>\n</ul>\n<h4>2. Cloudflare &quot;Building for the Future&quot;（HN 871分）</h4>\n<ul>\n<li><strong>链接</strong>：https://blog.cloudflare.com/building-for-the-future/</li>\n<li><strong>热度</strong>：871分 + 579评论</li>\n<li><strong>解读</strong>：Cloudflare 发布了重大战略更新（具体内容需看博文），社区讨论极为激烈。作为互联网基础设施的关键玩家，Cloudflare 的每次大动作都值得关注。</li>\n</ul>\n<hr>"
+      },
+      {
+        "title": "话题分类一览",
+        "excerpt": "| 话题 | 热度 | 亮点 | | DirtyFrag：Linux 通用 LPE | 1181分/822评 | 影响所有 Linux 内核版本 | | Canvas (Instructure) 被 ShinyHunters 入侵 | 871分/579评 | 黑客篡改学校登录页，威胁泄露数据 | |...",
+        "html": "<h4>️ 安全与隐私</h4>\n<div class=\"table-wrap\"><table><thead><tr><th>话题</th><th>热度</th><th>亮点</th></tr></thead><tbody><tr><td><strong>DirtyFrag：Linux 通用 LPE</strong></td><td>1181分/822评</td><td>影响所有 Linux 内核版本</td></tr><tr><td><strong>Canvas (Instructure) 被 ShinyHunters 入侵</strong></td><td>871分/579评</td><td>黑客篡改学校登录页，威胁泄露数据</td></tr><tr><td><strong>Google Cloud Fraud Defence = WEI 换皮</strong></td><td>380分/179评</td><td>Google 换个名字重新推 Web Environment Integrity</td></tr><tr><td><strong>Maybe you shouldn&#039;t install new software for a bit</strong></td><td>766分/404评</td><td>安全专家建议暂时不要安装新软件（可能与供应链攻击有关）</td></tr><tr><td><strong>Podman rootless containers Copy Fail 漏洞</strong></td><td>80分/14评</td><td>容器安全新问题</td></tr><tr><td><strong>Stop MITM on first SSH connection</strong></td><td>Lobsters 15分</td><td>SSH 首次连接中间人攻击防护</td></tr></tbody></table></div>\n<h4>编程语言与工具</h4>\n<div class=\"table-wrap\"><table><thead><tr><th>话题</th><th>热度</th><th>亮点</th></tr></thead><tbody><tr><td><strong>Mojo 1.0 Beta</strong></td><td>157分/121评</td><td>Modular 的 AI-first 语言终于到 1.0 了！Python 超集，GPU 原生支持</td></tr><tr><td><strong>ClojureScript Gets Async/Await</strong></td><td>244分/59评</td><td>ClojureScript 终于支持 async/await 语法</td></tr><tr><td><strong>Just Fucking Use Go</strong></td><td>Lobsters 75分/94评</td><td>激烈讨论 Go 的优缺点</td></tr><tr><td><strong>Blaise：现代自托管 Object Pascal 编译器</strong></td><td>Lobsters 18分</td><td>零遗留、全 ARC、统一 UTF-8</td></tr><tr><td><strong>Rust <code>Sync</code> bound 讨论</strong></td><td>Lobsters 6分</td><td>Rust 类型系统深度探讨</td></tr></tbody></table></div>\n<h4>AI &amp; Agent 相关</h4>\n<div class=\"table-wrap\"><table><thead><tr><th>话题</th><th>热度</th><th>亮点</th></tr></thead><tbody><tr><td><strong>Show HN: Git for AI Agents (re_gent)</strong></td><td>59分/32评</td><td>⭐ <strong>直接相关</strong> — 为 AI Agent 做版本控制，追踪&quot;为什么做了这个决定&quot;</td></tr><tr><td><strong>AI Slop is Killing Online Communities</strong></td><td>Lobsters 44分</td><td>AI 生成内容正在摧毁社区质量</td></tr><tr><td><strong>What We Lost the Last Time Code Got Cheap</strong></td><td>Lobsters 5分</td><td>AI 让代码变便宜，但失去了什么？</td></tr><tr><td><strong>Firefox 用 Claude (Mythos Preview) 加固安全</strong></td><td>Lobsters 45分</td><td>Mozilla 用 AI 辅助浏览器安全加固</td></tr><tr><td><strong>cuda-oxide：Rust-to-CUDA 编译器</strong></td><td>Lobsters 18分</td><td>用 Rust 写 CUDA 内核</td></tr><tr><td><strong>Cliff Stoll：AI 幻觉宣布他已死亡</strong></td><td>1097分/144评</td><td>《布谷鸟的蛋》作者被 AI 生成的评论&quot;杀死&quot;了，幽默而发人深省</td></tr></tbody></table></div>\n<h4>基础设施与硬件</h4>\n<div class=\"table-wrap\"><table><thead><tr><th>话题</th><th>热度</th><th>亮点</th></tr></thead><tbody><tr><td><strong>Apple &amp; Intel 达成芯片制造初步协议</strong></td><td>70分/25评</td><td>Reuters 报道，重大产业新闻</td></tr><tr><td><strong>Raspberry Pi Zero 纯 RAM 运行网站</strong></td><td>119分/46评</td><td>极客精神的极致体现</td></tr><tr><td><strong>Ryzen AI 7 350 NPU 跑满 TOPS</strong></td><td>Lobsters 7分</td><td>榨干 NPU 性能</td></tr><tr><td><strong>Ploopy Bean：外置小红点</strong></td><td>Lobsters 52分</td><td>硬件爱好者的新玩具</td></tr></tbody></table></div>\n<h4>宏观与社会</h4>\n<div class=\"table-wrap\"><table><thead><tr><th>话题</th><th>热度</th><th>亮点</th></tr></thead><tbody><tr><td><strong>波兰成为全球第20大经济体</strong></td><td>726分/621评</td><td>欧洲经济格局变化</td></tr><tr><td><strong>美国政府发布首批 UAP 文件和视频</strong></td><td>133分/225评</td><td>传说中的 UFO 解密来了</td></tr><tr><td><strong>David Attenborough 100 岁生日</strong></td><td>93分</td><td>传奇自然纪录片主持人</td></tr></tbody></table></div>\n<hr>"
+      },
+      {
+        "title": "与我们的关联",
+        "excerpt": "1. Git for AI Agents (regent) — 这正是 OpenClaw 在做的事的互补：Agent 的版本控制和决策追踪。值得关注他们的实现思路，特别是\"为什么做了这个决定\"的追踪能力。 2. Mojo 1.0 Beta — AI-first 语言终于成熟了。如果 Mojo 真能做...",
+        "html": "<h4>直接相关</h4>\n<ol>\n<li><strong>Git for AI Agents (re_gent)</strong> — 这正是 OpenClaw 在做的事的互补：Agent 的版本控制和决策追踪。值得关注他们的实现思路，特别是&quot;为什么做了这个决定&quot;的追踪能力。</li>\n<li><strong>Mojo 1.0 Beta</strong> — AI-first 语言终于成熟了。如果 Mojo 真能做到&quot;Python 语法 + C 性能 + GPU 原生&quot;，对 AI Agent runtime 性能优化有启发。</li>\n<li><strong>AI Slop is Killing Communities</strong> — 我们做内容输出时要注意：AI 辅助 ≠ AI 替代。保持人类视角的判断力是核心价值。</li>\n</ol>\n<h4>间接启发</h4>\n<ol>\n<li><strong>DirtyFrag + 供应链安全警告</strong> — Agent 系统的安全性不能忽视，特别是 Agent 有权限执行命令和安装软件时。</li>\n<li><strong>Firefox + Claude 加固安全</strong> — AI 辅助安全工程的真实落地案例，这个方向会越来越多。</li>\n<li><strong>Cloudflare 大动作</strong> — 基础设施层的每次变化都可能影响我们部署和分发的策略。</li>\n</ol>\n<hr>"
+      },
+      {
+        "title": "行动建议",
+        "excerpt": "1. 🔥 立刻：如果你有 Linux 服务器，检查 DirtyFrag 漏洞影响并打补丁 2. 👀 本周关注：跟进 regent (Git for AI Agents) 项目 — https://github.com/regent-vcs/regent 3. 📝 值得深入：Mojo 1.0 的...",
+        "html": "<ol>\n<li><strong>🔥 立刻</strong>：如果你有 Linux 服务器，检查 DirtyFrag 漏洞影响并打补丁</li>\n<li><strong>👀 本周关注</strong>：跟进 re_gent (Git for AI Agents) 项目 — <a href=\"https://github.com/regent-vcs/re_gent\" target=\"_blank\" rel=\"noreferrer\">https://github.com/regent-vcs/re_gent</a></li>\n<li><strong>📝 值得深入</strong>：Mojo 1.0 的实际性能表现，是否值得在 Agent 场景中试用</li>\n<li><strong>⚠️ 警惕</strong>：&quot;暂时不要安装新软件&quot;的安全警告可能和某个未公开的供应链攻击有关，保持关注</li>\n</ol>\n<hr>\n<p><em>数据来源：Hacker News API、Lobste.rs | Product Hunt 因 Cloudflare 保护无法抓取</em></p>"
+      }
+    ],
+    "html": "<h2>前沿话题日报 — 2026年5月9日（周五）</h2>\n<blockquote>数据源：Hacker News Top Stories、Lobsters | 抓取时间：2026-05-09 02:36 CST</blockquote>\n<hr>\n<h3>今日亮点</h3>\n<h4>1. DirtyFrag：Linux 通用本地提权漏洞（HN 1，1181分）</h4>\n<ul>\n<li><strong>链接</strong>：https://www.openwall.com/lists/oss-security/2026/05/07/8</li>\n<li><strong>热度</strong>：HN 1181分 + 822评论 / Lobsters 111分 + 29评论</li>\n<li><strong>解读</strong>：一个影响几乎所有 Linux 内核版本的本地提权漏洞被公开。HN 和 Lobsters 双平台同时爆了，这是本周最严重的安全事件之一。</li>\n<li><strong>关联</strong>：如果你在跑 Linux 服务器，立刻关注补丁。对 AI Agent 领域来说，部署在 Linux 上的 Agent runtime 也需要关注。</li>\n</ul>\n<h4>2. Cloudflare &quot;Building for the Future&quot;（HN 871分）</h4>\n<ul>\n<li><strong>链接</strong>：https://blog.cloudflare.com/building-for-the-future/</li>\n<li><strong>热度</strong>：871分 + 579评论</li>\n<li><strong>解读</strong>：Cloudflare 发布了重大战略更新（具体内容需看博文），社区讨论极为激烈。作为互联网基础设施的关键玩家，Cloudflare 的每次大动作都值得关注。</li>\n</ul>\n<hr>\n<h3>话题分类一览</h3>\n<h4>️ 安全与隐私</h4>\n<div class=\"table-wrap\"><table><thead><tr><th>话题</th><th>热度</th><th>亮点</th></tr></thead><tbody><tr><td><strong>DirtyFrag：Linux 通用 LPE</strong></td><td>1181分/822评</td><td>影响所有 Linux 内核版本</td></tr><tr><td><strong>Canvas (Instructure) 被 ShinyHunters 入侵</strong></td><td>871分/579评</td><td>黑客篡改学校登录页，威胁泄露数据</td></tr><tr><td><strong>Google Cloud Fraud Defence = WEI 换皮</strong></td><td>380分/179评</td><td>Google 换个名字重新推 Web Environment Integrity</td></tr><tr><td><strong>Maybe you shouldn&#039;t install new software for a bit</strong></td><td>766分/404评</td><td>安全专家建议暂时不要安装新软件（可能与供应链攻击有关）</td></tr><tr><td><strong>Podman rootless containers Copy Fail 漏洞</strong></td><td>80分/14评</td><td>容器安全新问题</td></tr><tr><td><strong>Stop MITM on first SSH connection</strong></td><td>Lobsters 15分</td><td>SSH 首次连接中间人攻击防护</td></tr></tbody></table></div>\n<h4>编程语言与工具</h4>\n<div class=\"table-wrap\"><table><thead><tr><th>话题</th><th>热度</th><th>亮点</th></tr></thead><tbody><tr><td><strong>Mojo 1.0 Beta</strong></td><td>157分/121评</td><td>Modular 的 AI-first 语言终于到 1.0 了！Python 超集，GPU 原生支持</td></tr><tr><td><strong>ClojureScript Gets Async/Await</strong></td><td>244分/59评</td><td>ClojureScript 终于支持 async/await 语法</td></tr><tr><td><strong>Just Fucking Use Go</strong></td><td>Lobsters 75分/94评</td><td>激烈讨论 Go 的优缺点</td></tr><tr><td><strong>Blaise：现代自托管 Object Pascal 编译器</strong></td><td>Lobsters 18分</td><td>零遗留、全 ARC、统一 UTF-8</td></tr><tr><td><strong>Rust <code>Sync</code> bound 讨论</strong></td><td>Lobsters 6分</td><td>Rust 类型系统深度探讨</td></tr></tbody></table></div>\n<h4>AI &amp; Agent 相关</h4>\n<div class=\"table-wrap\"><table><thead><tr><th>话题</th><th>热度</th><th>亮点</th></tr></thead><tbody><tr><td><strong>Show HN: Git for AI Agents (re_gent)</strong></td><td>59分/32评</td><td>⭐ <strong>直接相关</strong> — 为 AI Agent 做版本控制，追踪&quot;为什么做了这个决定&quot;</td></tr><tr><td><strong>AI Slop is Killing Online Communities</strong></td><td>Lobsters 44分</td><td>AI 生成内容正在摧毁社区质量</td></tr><tr><td><strong>What We Lost the Last Time Code Got Cheap</strong></td><td>Lobsters 5分</td><td>AI 让代码变便宜，但失去了什么？</td></tr><tr><td><strong>Firefox 用 Claude (Mythos Preview) 加固安全</strong></td><td>Lobsters 45分</td><td>Mozilla 用 AI 辅助浏览器安全加固</td></tr><tr><td><strong>cuda-oxide：Rust-to-CUDA 编译器</strong></td><td>Lobsters 18分</td><td>用 Rust 写 CUDA 内核</td></tr><tr><td><strong>Cliff Stoll：AI 幻觉宣布他已死亡</strong></td><td>1097分/144评</td><td>《布谷鸟的蛋》作者被 AI 生成的评论&quot;杀死&quot;了，幽默而发人深省</td></tr></tbody></table></div>\n<h4>基础设施与硬件</h4>\n<div class=\"table-wrap\"><table><thead><tr><th>话题</th><th>热度</th><th>亮点</th></tr></thead><tbody><tr><td><strong>Apple &amp; Intel 达成芯片制造初步协议</strong></td><td>70分/25评</td><td>Reuters 报道，重大产业新闻</td></tr><tr><td><strong>Raspberry Pi Zero 纯 RAM 运行网站</strong></td><td>119分/46评</td><td>极客精神的极致体现</td></tr><tr><td><strong>Ryzen AI 7 350 NPU 跑满 TOPS</strong></td><td>Lobsters 7分</td><td>榨干 NPU 性能</td></tr><tr><td><strong>Ploopy Bean：外置小红点</strong></td><td>Lobsters 52分</td><td>硬件爱好者的新玩具</td></tr></tbody></table></div>\n<h4>宏观与社会</h4>\n<div class=\"table-wrap\"><table><thead><tr><th>话题</th><th>热度</th><th>亮点</th></tr></thead><tbody><tr><td><strong>波兰成为全球第20大经济体</strong></td><td>726分/621评</td><td>欧洲经济格局变化</td></tr><tr><td><strong>美国政府发布首批 UAP 文件和视频</strong></td><td>133分/225评</td><td>传说中的 UFO 解密来了</td></tr><tr><td><strong>David Attenborough 100 岁生日</strong></td><td>93分</td><td>传奇自然纪录片主持人</td></tr></tbody></table></div>\n<hr>\n<h3>与我们的关联</h3>\n<h4>直接相关</h4>\n<ol>\n<li><strong>Git for AI Agents (re_gent)</strong> — 这正是 OpenClaw 在做的事的互补：Agent 的版本控制和决策追踪。值得关注他们的实现思路，特别是&quot;为什么做了这个决定&quot;的追踪能力。</li>\n<li><strong>Mojo 1.0 Beta</strong> — AI-first 语言终于成熟了。如果 Mojo 真能做到&quot;Python 语法 + C 性能 + GPU 原生&quot;，对 AI Agent runtime 性能优化有启发。</li>\n<li><strong>AI Slop is Killing Communities</strong> — 我们做内容输出时要注意：AI 辅助 ≠ AI 替代。保持人类视角的判断力是核心价值。</li>\n</ol>\n<h4>间接启发</h4>\n<ol>\n<li><strong>DirtyFrag + 供应链安全警告</strong> — Agent 系统的安全性不能忽视，特别是 Agent 有权限执行命令和安装软件时。</li>\n<li><strong>Firefox + Claude 加固安全</strong> — AI 辅助安全工程的真实落地案例，这个方向会越来越多。</li>\n<li><strong>Cloudflare 大动作</strong> — 基础设施层的每次变化都可能影响我们部署和分发的策略。</li>\n</ol>\n<hr>\n<h3>行动建议</h3>\n<ol>\n<li><strong>🔥 立刻</strong>：如果你有 Linux 服务器，检查 DirtyFrag 漏洞影响并打补丁</li>\n<li><strong>👀 本周关注</strong>：跟进 re_gent (Git for AI Agents) 项目 — <a href=\"https://github.com/regent-vcs/re_gent\" target=\"_blank\" rel=\"noreferrer\">https://github.com/regent-vcs/re_gent</a></li>\n<li><strong>📝 值得深入</strong>：Mojo 1.0 的实际性能表现，是否值得在 Agent 场景中试用</li>\n<li><strong>⚠️ 警惕</strong>：&quot;暂时不要安装新软件&quot;的安全警告可能和某个未公开的供应链攻击有关，保持关注</li>\n</ol>\n<hr>\n<p><em>数据来源：Hacker News API、Lobste.rs | Product Hunt 因 Cloudflare 保护无法抓取</em></p>",
+    "stats": {
+      "maxScore": 1181,
+      "maxComments": 822,
+      "topicCount": 24
+    }
+  }
+]

@@ -1,0 +1,349 @@
+[
+  {
+    "name": "Dan Koe",
+    "slug": "dan-koe",
+    "emoji": "🧭",
+    "role": "创作者商业与个人系统",
+    "focus": [
+      "个人垄断",
+      "写作系统",
+      "一人公司"
+    ],
+    "signal": "关注个体如何用内容、产品和系统化学习构建长期复利。",
+    "links": [
+      {
+        "label": "Website",
+        "url": "https://thedankoe.com/"
+      }
+    ],
+    "candidateDate": null,
+    "candidateLevel": null,
+    "recommendation": null,
+    "value": null,
+    "recentUpdates": [],
+    "sourceProfile": null,
+    "activityScore": 0
+  },
+  {
+    "name": "Naval",
+    "slug": "naval",
+    "emoji": "🧠",
+    "role": "创业、财富与判断力",
+    "focus": [
+      "创业",
+      "财富杠杆",
+      "哲学"
+    ],
+    "signal": "用高度浓缩的判断框架讨论技术、财富、幸福与长期主义。",
+    "aliases": [
+      "Naval Ravikant"
+    ],
+    "links": [
+      {
+        "label": "Website",
+        "url": "https://nav.al/"
+      }
+    ],
+    "candidateDate": null,
+    "candidateLevel": null,
+    "recommendation": null,
+    "value": null,
+    "recentUpdates": [
+      {
+        "person": "Naval Ravikant",
+        "title": "‘Nothing Ever Happens’ Is Over",
+        "excerpt": "You’re listening to the Naval Podcast. This is Nivi. There’s no set topic for this episode—it will be a potpourri. The Fully Interconnected Startup Naval, how are you using AI at Impossible, your curr",
+        "date": "2026-05-04",
+        "url": "https://nav.al/over",
+        "week": "2026-W19"
+      }
+    ],
+    "sourceProfile": null,
+    "activityScore": 2
+  },
+  {
+    "name": "Sahil Bloom",
+    "slug": "sahil-bloom",
+    "emoji": "🌱",
+    "role": "成长、商业与决策模型",
+    "focus": [
+      "心智模型",
+      "个人成长",
+      "商业写作"
+    ],
+    "signal": "擅长把复杂商业与人生议题拆成可传播、可执行的模型。",
+    "links": [
+      {
+        "label": "Newsletter",
+        "url": "https://sahilbloom.com/"
+      }
+    ],
+    "candidateDate": null,
+    "candidateLevel": null,
+    "recommendation": null,
+    "value": null,
+    "recentUpdates": [
+      {
+        "person": "Sahil Bloom",
+        "title": "The Streetlight Effect: Why Smart People Look In The Wrong Places",
+        "excerpt": "watch on YouTube or read and listen on sahilbloom.com",
+        "date": "2026-05-01",
+        "url": "https://sahilbloom.substack.com/p/the-streetlight-effect-why-smart",
+        "week": "2026-W19"
+      }
+    ],
+    "sourceProfile": null,
+    "activityScore": 2
+  },
+  {
+    "name": "Ali Abdaal",
+    "slug": "ali-abdaal",
+    "emoji": "⚡",
+    "role": "生产力与创作者教育",
+    "focus": [
+      "生产力",
+      "创作者经济",
+      "学习方法"
+    ],
+    "signal": "从医生到教育创作者，长期追踪工作流、学习和创作者产品化。",
+    "links": [
+      {
+        "label": "Website",
+        "url": "https://aliabdaal.com/"
+      }
+    ],
+    "candidateDate": null,
+    "candidateLevel": null,
+    "recommendation": null,
+    "value": null,
+    "recentUpdates": [],
+    "sourceProfile": null,
+    "activityScore": 0
+  },
+  {
+    "name": "Justin Welsh",
+    "slug": "justin-welsh",
+    "emoji": "🏗️",
+    "role": "一人公司与B2B创作者",
+    "focus": [
+      "一人公司",
+      "LinkedIn",
+      "数字产品"
+    ],
+    "signal": "持续拆解低复杂度、高利润率的独立业务搭建方法。",
+    "links": [
+      {
+        "label": "Website",
+        "url": "https://www.justinwelsh.me/"
+      }
+    ],
+    "candidateDate": null,
+    "candidateLevel": null,
+    "recommendation": null,
+    "value": null,
+    "recentUpdates": [],
+    "sourceProfile": null,
+    "activityScore": 0
+  },
+  {
+    "name": "Simon Willison",
+    "slug": "simon-willison",
+    "emoji": "🛠️",
+    "role": "LLM 工程、数据工具与开源",
+    "focus": [
+      "LLM",
+      "开源工具",
+      "Datasette"
+    ],
+    "signal": "高频记录 AI 工程实践、模型评测、工具调用和安全边界。",
+    "links": [
+      {
+        "label": "Blog",
+        "url": "https://simonwillison.net/"
+      }
+    ],
+    "candidateDate": null,
+    "candidateLevel": null,
+    "recommendation": null,
+    "value": null,
+    "recentUpdates": [
+      {
+        "person": "Simon Willison",
+        "title": "datasette-referrer-policy 0.1",
+        "excerpt": "Release: datasette-referrer-policy 0.1 The OpenStreetMap tiles on the Datasette global-power-plants demo weren't displaying correctly. This turned out to be caused by two bugs. The first is that the C",
+        "date": "2026-05-05",
+        "url": "https://simonwillison.net/2026/May/5/datasette-referrer-policy/atom-everything",
+        "week": "2026-W19"
+      },
+      {
+        "person": "Simon Willison",
+        "title": "Our AI started a cafe in Stockholm",
+        "excerpt": "Our AI started a cafe in Stockholm Andon Labs previously started an AI-run retail store in San Francisco. Now they're running a similar experiment in Stockholm, Sweden, only this time it's a cafe. The",
+        "date": "2026-05-05",
+        "url": "https://simonwillison.net/2026/May/5/our-ai-started-a-cafe-in-stockholm/atom-everything",
+        "week": "2026-W19"
+      }
+    ],
+    "sourceProfile": {
+      "title": "Simon Willison - 深度档案",
+      "excerpt": "最后更新: 2026-05-03 深度跟进状态: ✅ 完成 跟进周期: 每周 - 身份: Django 联合创作者、开源开发者、AI工具实践者 - 核心领域: AI辅助编程、LLM应用、数据工具、开源社区 - 影响力: 在AI工具开发领域有极高话语权，博客是技术社区重要参考 - 博客: https:...",
+      "html": "<h2>Simon Willison - 深度档案</h2>\n<blockquote>最后更新: 2026-05-03</blockquote>\n<blockquote>深度跟进状态: ✅ 完成</blockquote>\n<blockquote>跟进周期: 每周</blockquote>\n<hr>\n<h3>步骤1: 基础档案完善</h3>\n<h4>背景介绍</h4>\n<ul>\n<li><strong>身份</strong>: Django 联合创作者、开源开发者、AI工具实践者</li>\n<li><strong>核心领域</strong>: AI辅助编程、LLM应用、数据工具、开源社区</li>\n<li><strong>影响力</strong>: 在AI工具开发领域有极高话语权，博客是技术社区重要参考</li>\n</ul>\n<h4>主要内容渠道</h4>\n<ul>\n<li><strong>博客</strong>: <a href=\"https://simonwillison.net/\" target=\"_blank\" rel=\"noreferrer\">https://simonwillison.net/</a> （日更或接近日更）</li>\n<li><strong>Twitter</strong>: @simonw （活跃）</li>\n<li><strong>GitHub</strong>: simonw （数百个开源项目）</li>\n<li><strong>工具站</strong>: <a href=\"https://tools.simonwillison.net/\" target=\"_blank\" rel=\"noreferrer\">https://tools.simonwillison.net/</a> （vibe-coded apps 展示）</li>\n</ul>\n<h4>RSS订阅</h4>\n<ul>\n<li>✅ 已配置：https://simonwillison.net/ （通过 RSS 获取）</li>\n</ul>\n<hr>\n<h3>步骤2: 核心观点提炼（2026年4-5月）</h3>\n<h4>观点1: Vibe-coding 是编程范式的根本转变</h4>\n<p><strong>原话</strong>：</p>\n<blockquote>&quot;今天我写的代码中95%都不是我自己打的&quot;</blockquote>\n<blockquote>&quot;vibe-coded apps应该像博客文章一样频繁发布，需要RSS订阅机制&quot;</blockquote>\n<p><strong>解读</strong>：</p>\n<ul>\n<li><strong>本质变化</strong>: AI让编程从&quot;手写代码&quot;变成&quot;描述意图+AI生成+快速迭代&quot;</li>\n<li><strong>速度革命</strong>: 微型工具的开发速度大幅提升，一个人可以在手机上一天开发多个工具</li>\n<li><strong>分发机制</strong>: 当app开发像写博客一样频繁，就需要RSS这样的订阅机制来发现和追踪</li>\n<li><strong>实践验证</strong>: Simon本人就是极致实践者 - 在手机上用Claude Code开发工具</li>\n</ul>\n<p><strong>时间脉络</strong>：</p>\n<ul>\n<li>2026年2月: 开始推广&quot;vibe-coding&quot;概念</li>\n<li>2026年4-5月: 持续实践，用AI开发多个工具，总结方法论</li>\n</ul>\n<hr>\n<h4>观点2: AI Agent系统的复杂性被低估</h4>\n<p><strong>原话</strong>：</p>\n<blockquote>&quot;即使模型没问题，harness的bug也会严重影响用户体验&quot;</blockquote>\n<p><strong>解读</strong>：</p>\n<ul>\n<li><strong>系统复杂度</strong>: AI Agent不只是模型，整个harness（prompt工程、工具调用、循环逻辑）都需要精心设计</li>\n<li><strong>具体案例</strong>:</li>\n<li>分析OpenAI Codex的/goal功能实现（通过prompt模板实现自主循环）</li>\n<li>评测Claude Code的性能问题及Anthropic的postmortem</li>\n<li>持续迭代自己的LLM工具到0.32版本</li>\n<li><strong>关键洞察</strong>: 好的AI系统需要在多个层面同时优化：模型选择、prompt设计、工具接口、错误处理</li>\n</ul>\n<p><strong>实践案例</strong>：</p>\n<ul>\n<li>Codex CLI 0.128.0的/goal功能分析</li>\n<li>对GPT-5.5的深度评测（强调需要从零开始调优prompt）</li>\n<li>对AI安全研究所评估GPT-5.5和Claude Mythos的追踪</li>\n</ul>\n<hr>\n<h4>观点3: 开源社区的&quot;贡献者优先&quot;哲学</h4>\n<p><strong>引用Zig创建者Andrew Kelley</strong>：</p>\n<blockquote>&quot;我能闻出agentic coding的数字味道...就像抽烟的人走进房间，不抽烟的人立刻就知道&quot;</blockquote>\n<blockquote>&quot;我不是叫你别抽烟，但我是叫你别在我家抽烟&quot;</blockquote>\n<p><strong>解读</strong>（Simon的深度分析）：</p>\n<ul>\n<li><strong>核心理念</strong>: &quot;贡献者比贡献更重要&quot; - 开源项目是在培养人，而不是收集完美代码</li>\n<li><strong>AI的破坏性</strong>: LLM可以生成完美的PR，但无法培养新的可信任贡献者</li>\n<li><strong>具体矛盾</strong>:</li>\n<li>Bun用AI辅助在Zig fork上实现4x性能提升</li>\n<li>但Zig拒绝接受，因为这是AI生成的代码</li>\n<li>Simon理解双方的立场，并认为Zig的做法有道理</li>\n<li><strong>&quot;Contributor Poker&quot;</strong>: 项目维护者是在赌贡献者（他们会带来更多价值），而不是赌第一个PR</li>\n</ul>\n<p><strong>关联思考</strong>: Simon自己拥抱AI，但也理解Zig的立场，显示了他的平衡思维</p>\n<hr>\n<h4>观点4: AI系统的深入分析需要从零开始</h4>\n<p><strong>原话（关于GPT-5.5）</strong>：</p>\n<blockquote>&quot;把它当作新的模型家族来调优，而不是即插即用的替代品&quot;</blockquote>\n<p><strong>解读</strong>：</p>\n<ul>\n<li><strong>错误假设</strong>: 很多人以为新模型可以直接替换旧模型</li>\n<li><strong>正确做法</strong>: 每个模型都有自己的&quot;个性&quot;，需要重新调优</li>\n<li><strong>调优方法</strong>:</li>\n</ul>\n<ol>\n<li>从最小prompt开始</li>\n<li>逐步调整推理深度</li>\n<li>调整详细程度</li>\n<li>优化工具描述</li>\n</ol>\n<ul>\n<li><strong>实践意义</strong>: 这对OpenClaw等使用多种模型的平台非常重要</li>\n</ul>\n<hr>\n<h4>观点5: 微型工具 + RSS = 新的内容分发模式</h4>\n<p><strong>原话（回应Matt Webb）</strong>：</p>\n<blockquote>&quot;当vibe-coding加速app开发，app变得更个人化、更情境化、更频繁。发布工具或微app不像发布网站，更像发布博客文章&quot;</blockquote>\n<p><strong>实践行动</strong>：</p>\n<ul>\n<li>✅ 为自己的tools站点添加了Atom feed</li>\n<li>✅ 开发模式：手机上用Claude Code快速开发→部署→RSS分发</li>\n</ul>\n<p><strong>解读</strong>：</p>\n<ul>\n<li><strong>生产端</strong>: AI让工具开发速度提升了10倍</li>\n<li><strong>消费端</strong>: 需要新的分发机制（RSS）来发现这些快速涌现的工具</li>\n<li><strong>趋势</strong>: 未来的app可能更像是&quot;可执行的博客文章&quot;而非传统软件</li>\n</ul>\n<hr>\n<h3>步骤3: 业务关联分析</h3>\n<h4>与OpenClaw的直接关联</h4>\n<h5>1️⃣ Agent系统设计</h5>\n<p><strong>关联点</strong>: Simon对AI Agent harness的深入分析</p>\n<ul>\n<li>OpenClaw的Agent功能可以借鉴他的系统化思考</li>\n<li>他的prompt调优方法论可以直接应用</li>\n<li>对模型&quot;个性&quot;的理解有助于我们更好地切换和优化不同模型</li>\n</ul>\n<h5>2️⃣ 开发者体验</h5>\n<p><strong>关联点</strong>: Vibe-coding理念</p>\n<ul>\n<li>OpenClaw本身是开发者工具，应该拥抱AI辅助开发</li>\n<li>Simon的&quot;小工具、快速迭代&quot;模式适合OpenClaw的插件生态</li>\n<li>可以考虑为OpenClaw用户添加类似Claude Code的体验</li>\n</ul>\n<h5>3️⃣ 内容策略</h5>\n<p><strong>关联点</strong>: 高频发布、RSS分发</p>\n<ul>\n<li>Simon的模式证明了技术内容的持续更新比&quot;大爆炸式发布&quot;更有效</li>\n<li>OpenClaw可以考虑RSS/Atom feed来发布更新</li>\n<li>&quot;微型工具展示&quot;可以作为内容营销的一部分</li>\n</ul>\n<h5>4️⃣ 技术深度</h5>\n<p><strong>关联点</strong>: 对模型的深入评测</p>\n<ul>\n<li>Simon的评测方法可以用于OpenClaw的AI功能测试</li>\n<li>他对开源社区的理解（Zig案例）有助于我们思考OpenClaw的开源策略</li>\n</ul>\n<h4>可以借鉴的具体方法</h4>\n<div class=\"table-wrap\"><table><thead><tr><th>方法</th><th>描述</th><th>可行性</th></tr></thead><tbody><tr><td><strong>工具站+RSS</strong></td><td>建立tools.openclaw.ai展示微型工具，用RSS分发</td><td>🔥 高</td></tr><tr><td><strong>移动端开发</strong></td><td>像Simon一样在手机上用AI开发工具</td><td>🔥 高</td></tr><tr><td><strong>Prompt工程文档</strong></td><td>为每个模型建立调优指南（参考Simon的方法）</td><td>中</td></tr><tr><td><strong>Postmortem文化</strong></td><td>对AI系统的故障进行公开分析和改进</td><td>中</td></tr><tr><td><strong>微型工具挑战</strong></td><td>鼓励社区用AI快速开发OpenClaw微工具</td><td>中</td></tr></tbody></table></div>\n<h4>需要注意的风险</h4>\n<ol>\n<li><strong>过度依赖AI</strong>: Simon本人也承认AI会犯错，需要人工审查</li>\n<li><strong>开源社区矛盾</strong>: Zig的案例显示，AI生成的代码在某些社区会被拒绝</li>\n<li><strong>模型切换成本</strong>: Simon强调每个模型需要重新调优，这意味着多模型支持有复杂性</li>\n</ol>\n<hr>\n<h3>步骤4: 行动建议</h3>\n<h4>短期可执行（本周内）</h4>\n<h5>1. 为OpenClaw添加更新RSS Feed</h5>\n<p><strong>原因</strong>: Simon证明了RSS对快速迭代的项目至关重要 <strong>具体做法</strong>:</p>\n<ul>\n<li>[ ] 为OpenClaw的changelog添加RSS</li>\n<li>[ ] 为插件/技能更新添加RSS</li>\n<li>[ ] 在文档和社区宣传这些RSS</li>\n</ul>\n<p><strong>优先级</strong>: 🔥 高 <strong>预期收益</strong>: 用户可以更方便地追踪更新，提升参与度</p>\n<h5>2. 实践&quot;移动端AI开发&quot;</h5>\n<p><strong>原因</strong>: Simon证明了这可行且高效 <strong>具体做法</strong>:</p>\n<ul>\n<li>[ ] 在手机上安装OpenClaw CLI或Web界面</li>\n<li>[ ] 用AI辅助开发一个微型工具（例如：飞书消息格式化工具）</li>\n<li>[ ] 记录体验和效率提升</li>\n</ul>\n<p><strong>优先级</strong>: 🔥 高 <strong>预期收益</strong>: 亲身验证vibe-coding的效率，积累经验</p>\n<h5>3. 建立模型调优文档</h5>\n<p><strong>原因</strong>: Simon对GPT-5.5的分析显示每个模型都需要专门调优 <strong>具体做法</strong>:</p>\n<ul>\n<li>[ ] 为OpenClaw支持的每个主流模型建立调优指南</li>\n<li>[ ] 记录最佳prompt模式</li>\n<li>[ ] 建立模型切换checklist</li>\n</ul>\n<p><strong>优先级</strong>: 中 <strong>预期收益</strong>: 提升AI功能的质量和稳定性</p>\n<h4>中长期可考虑（本月内）</h4>\n<h5>1. 建立OpenClaw微型工具生态</h5>\n<p><strong>原因</strong>: Simon的tools站点展示了vibe-coded apps的潜力 <strong>具体做法</strong>:</p>\n<ul>\n<li>[ ] 创建tools.openclaw.ai或类似站点</li>\n<li>[ ] 鼓励社区用AI快速开发OpenClaw微工具</li>\n<li>[ ] 用RSS分发这些工具</li>\n<li>[ ] 举办&quot;48小时AI工具挑战赛&quot;</li>\n</ul>\n<p><strong>优先级</strong>: 中 <strong>预期收益</strong>: 建立活跃的开发者生态，增加OpenClaw曝光度</p>\n<h5>2. 深度评测系列</h5>\n<p><strong>原因</strong>: Simon的深度评测内容质量高，吸引技术观众 <strong>具体做法</strong>:</p>\n<ul>\n<li>[ ] 对OpenClaw的AI功能进行Simon风格的深度分析</li>\n<li>[ ] 发布&quot;OpenClaw Agent系统设计&quot;系列文章</li>\n<li>[ ] 分享postmortem和改进过程</li>\n</ul>\n<p><strong>优先级</strong>: 中 <strong>预期收益</strong>: 建立技术权威性，吸引核心开发者用户</p>\n<hr>\n<h3>步骤5: 持续跟踪机制</h3>\n<h4>更新频率</h4>\n<p><strong>每两周</strong>全面回顾一次他的博客 <strong>原因</strong>: Simon接近日更，内容量大，需要定期过滤</p>\n<h4>关键信号清单</h4>\n<p><strong>🚨 立即通知团队的情况</strong>：</p>\n<ol>\n<li>发布关于Agent系统设计的重大洞察</li>\n<li>对OpenClaw相关技术（Claude Code、OpenAI Codex等）的深度分析</li>\n<li>提出新的开发方法论或工具模式</li>\n<li>对开源社区政策的深度分析（影响我们的开源策略）</li>\n</ol>\n<p><strong>📝 记录即可的情况</strong>：</p>\n<ol>\n<li>新的微型工具发布（除非特别创新）</li>\n<li>一般性的AI新闻评论</li>\n<li>摄影/个人生活内容</li>\n</ol>\n<h4>历史观点归档</h4>\n<ul>\n<li>2026-05-03: 完成首次深度跟进</li>\n<li>未来每两周更新一次，记录观点演化</li>\n</ul>\n<hr>\n<h3>附录：最新工具（2026年4-5月）</h3>\n<p>Simon开发的vibe-coded工具示例：</p>\n<ol>\n<li><strong>iNaturalist sightings</strong> - 野生动物观察记录聚合</li>\n<li><strong>inat-clumper</strong> - Python CLI，处理iNaturalist数据</li>\n<li><strong>sightings博客功能</strong> - 将iNaturalist内容同步到个人博客</li>\n</ol>\n<p>这些工具的共性：</p>\n<ul>\n<li>✅ 在手机上用Claude Code开发</li>\n<li>✅ 从原型到完成只需几小时</li>\n<li>✅ 开源且可复用</li>\n<li>✅ 与个人内容生态整合</li>\n</ul>\n<hr>\n<p><strong>跟进完成时间</strong>: 2026-05-03 <strong>下次回顾</strong>: 2026-05-17 <strong>负责人</strong>: 前沿观察员</p>"
+    },
+    "activityScore": 5
+  },
+  {
+    "name": "Eugene Yan",
+    "slug": "eugene-yan",
+    "emoji": "📊",
+    "role": "机器学习系统与推荐工程",
+    "focus": [
+      "ML系统",
+      "推荐系统",
+      "AI工程"
+    ],
+    "signal": "把机器学习、产品系统和工程组织经验写成可复用的实践框架。",
+    "links": [
+      {
+        "label": "Blog",
+        "url": "https://eugeneyan.com/"
+      }
+    ],
+    "candidateDate": null,
+    "candidateLevel": null,
+    "recommendation": null,
+    "value": null,
+    "recentUpdates": [
+      {
+        "person": "Eugene Yan",
+        "title": "How to Work and Compound with AI",
+        "excerpt": "Context as infra, taste as config, verification for autonomy, scale via delegation, closing the loop.",
+        "date": "2026-05-03",
+        "url": "https://eugeneyan.com//writing/working-with-ai/",
+        "week": "2026-W19"
+      }
+    ],
+    "sourceProfile": null,
+    "activityScore": 2
+  },
+  {
+    "name": "Andrej Karpathy",
+    "slug": "andrej-karpathy",
+    "emoji": "🧬",
+    "role": "AI 研究、教育与神经网络",
+    "focus": [
+      "深度学习",
+      "AI教育",
+      "自动驾驶"
+    ],
+    "signal": "用第一性原理解释 AI 系统，从研究、教育到工程落地都有影响力。",
+    "links": [
+      {
+        "label": "Website",
+        "url": "https://karpathy.ai/"
+      }
+    ],
+    "candidateDate": null,
+    "candidateLevel": null,
+    "recommendation": null,
+    "value": null,
+    "recentUpdates": [
+      {
+        "person": "Andrej Karpathy",
+        "title": "My Take on The New Apple",
+        "excerpt": "Apple turnover Quinn’s Apple video: https://youtu.be/e1E-yfcKdUw?si=79V91XbUcjSwmE61 MKBHD Merch: http://shop.MKBHD.com Playlist of MKBHD Intro music: https://goo.gl/B3AWV5 ~ http://twitter.com/MKBHD",
+        "date": "2026-04-29",
+        "url": "https://www.youtube.com/watch?v=i9TvUGeTltE",
+        "week": "2026-W19"
+      }
+    ],
+    "sourceProfile": {
+      "title": "Andrej Karpathy - 深度档案",
+      "excerpt": "元数据 - ID: andrej-karpathy - 最后更新: 2026-05-03 - 状态: ⚠️ 低频更新（博客3个月未更新） - 跟进得分: medium - 跟进状态: ✅ 完成 🧪 一句话描述 AI教育者、前OpenAI研究科学家、Tesla Autopilot前AI总监 核心领域...",
+      "html": "<h2>Andrej Karpathy - 深度档案</h2>\n<blockquote><strong>元数据</strong></blockquote>\n<blockquote>- <strong>ID</strong>: andrej-karpathy</blockquote>\n<blockquote>- <strong>最后更新</strong>: 2026-05-03</blockquote>\n<blockquote>- <strong>状态</strong>: ⚠️ 低频更新（博客3个月未更新）</blockquote>\n<blockquote>- <strong>跟进得分</strong>: medium</blockquote>\n<blockquote>- <strong>跟进状态</strong>: ✅ 完成</blockquote>\n<hr>\n<h3>1. 基础信息</h3>\n<p><strong>🧪 一句话描述</strong> AI教育者、前OpenAI研究科学家、Tesla Autopilot前AI总监</p>\n<p><strong>核心领域</strong></p>\n<ul>\n<li>AI/ML教育</li>\n<li>深度学习</li>\n<li>LLM简化与普及</li>\n</ul>\n<p><strong>影响力</strong></p>\n<ul>\n<li>YouTube频道: 200万+订阅</li>\n<li>Twitter: 500万+关注</li>\n<li>AI教育领域的顶级影响力者</li>\n</ul>\n<p><strong>背景</strong></p>\n<ul>\n<li>斯坦福大学博士</li>\n<li>OpenAI创始成员之一</li>\n<li>Tesla Autopilot AI总监（2017-2022）</li>\n<li>Eureka Labs创始人（2024，AI+教育公司）</li>\n</ul>\n<hr>\n<h3>2. 内容渠道与追踪</h3>\n<h4>可追踪渠道</h4>\n<pre><code>博客:\n  url: https://karpathy.github.io/\n  rss: https://karpathy.github.io/feed.xml\n  frequency: 不规律（平均1-2年1篇）\n  last_check: 2026-05-03\n  status: active（但低频）\n  latest: microgpt (2026-02-12)\n\nYouTube:\n  url: https://youtube.com/@karpathy\n  frequency: 不规律\n  last_check: 需手动检查\n  status: active\n\nTwitter:\n  url: https://twitter.com/karpathy\n  frequency: 高频\n  last_check: 需手动检查\n  status: active</code></pre>\n<h4>追踪配置</h4>\n<pre><code>method: rss（博客）+ 手动（Twitter/YouTube）\ncron: 每周一检查RSS，每月检查Twitter\nnext_check: 2026-05-10\nnotes:\n  - 博客更新极低，不应作为主要追踪来源\n  - Twitter是主要活跃渠道，建议关注\n  - YouTube课程系列需手动检查更新</code></pre>\n<p><strong>⚠️ 重要提示</strong>: Karpathy的博客不是主要追踪来源，他的核心价值在于：</p>\n<ul>\n<li>已有的经典教程（持续有参考价值）</li>\n<li>Twitter上的实时观点</li>\n<li>YouTube上的课程系列</li>\n</ul>\n<hr>\n<h3>3. 核心观点（2026年2月 - 最新）</h3>\n<h4>观点1: 极简主义是理解AI的最佳途径</h4>\n<p><strong>原话</strong>：</p>\n<blockquote>&quot;这个文件包含了所需的全部算法内容：数据集、分词器、autograd引擎、GPT-2式神经网络架构、Adam优化器、训练循环和推理循环。其他一切只是为了效率。我无法再简化了。&quot;</blockquote>\n<blockquote>&quot;这脚本是我多个项目（micrograd、makemore、nanogpt等）的结晶，也是我十年来对简化LLM到本质的执念，我认为它很美🥹&quot;</blockquote>\n<p><strong>背景</strong>: microgpt - 200行纯Python实现GPT训练和推理</p>\n<p><strong>解读</strong>：</p>\n<ul>\n<li><strong>教育哲学</strong>: Karpathy坚信通过剥离所有复杂性，才能让人真正理解AI的核心</li>\n<li><strong>实践验证</strong>: microgpt是他十年来&quot;简化执念&quot;的集大成者</li>\n<li><strong>艺术视角</strong>: 他将这个200行脚本称为&quot;艺术项目&quot;，甚至在 karpathy.art 出售</li>\n<li><strong>实用性</strong>: 不仅是教学，他提供Colab notebook让任何人都能运行</li>\n</ul>\n<p><strong>时间脉络</strong>：</p>\n<ul>\n<li>2015-2019: 早期博客和教程</li>\n<li>2020-2022: YouTube系列（神经网络、GPT等）</li>\n<li>2023-2025: nanogpt、makemore等逐步简化项目</li>\n<li>2026年2月: microgpt - 简化的终极形态</li>\n</ul>\n<p><strong>标签</strong>: #ai-education #simplification #llm</p>\n<hr>\n<h4>观点2: AI教育的核心是&quot;从零开始&quot;</h4>\n<p><strong>历史观点回顾</strong>（持续有效）：</p>\n<p><strong>原话</strong>：</p>\n<blockquote>&quot;我认为有些人遇到的最大差距是&#039;这是卷积层如何工作&#039;和&#039;我们的卷网络实现了SOTA结果&#039;之间的鸿沟。&quot;</blockquote>\n<blockquote>&quot;写这个教程的动机是填补这个鸿沟。&quot;</blockquote>\n<p><strong>解读</strong>：</p>\n<ul>\n<li><strong>教学方法论</strong>: 不只是讲概念，要从第一性原理实现</li>\n<li><strong>经典案例</strong>:</li>\n<li>&quot;A Recipe for Training Neural Networks&quot; (2019) - 神经网络训练食谱</li>\n<li>&quot;Deep Reinforcement Learning: Pong from Pixels&quot; (2016) - 从像素到玩Pong</li>\n<li>&quot;Bitcoin from scratch&quot; (2021) - 从零实现比特币</li>\n<li><strong>持久价值</strong>: 这些教程虽然年代久，但核心原理不变，仍是最好的学习资源</li>\n</ul>\n<p><strong>标签</strong>: #education #from-scratch #tutorial</p>\n<hr>\n<h4>观点3: LLM的未来在于理解和简化，而非黑盒</h4>\n<p><strong>体现在行动中</strong>：</p>\n<ul>\n<li>持续发布简化版本：micrograd → makemore → nanogpt → <strong>microgpt</strong></li>\n<li>开源所有代码，鼓励fork和学习</li>\n<li>强调&quot;200行包含全部算法内容，其他只是效率&quot;</li>\n</ul>\n<p><strong>推论</strong>：</p>\n<ul>\n<li>他反对将AI神秘化</li>\n<li>他认为理解本质比使用复杂框架更重要</li>\n<li>他的教育方法对OpenClow这样的开发者工具平台有启发价值</li>\n</ul>\n<p><strong>标签</strong>: #llm #open-source #education</p>\n<hr>\n<h3>4. 业务关联分析</h3>\n<h4>与OpenClow的直接关联</h4>\n<h5>1️⃣ AI教育内容</h5>\n<p><strong>关联点</strong>: Karpathy是AI教育的标杆</p>\n<ul>\n<li>OpenClow可以借鉴他的教育方法来制作自己的教程</li>\n<li>他的&quot;从零开始&quot;方法论可以应用于OpenClow文档</li>\n<li>microgpt式的简化思维可用于OpenClow的复杂功能解释</li>\n</ul>\n<p><strong>具体借鉴</strong>:</p>\n<ul>\n<li>[ ] 制作&quot;OpenClow from scratch&quot;系列教程</li>\n<li>[ ] 为每个核心功能写&quot;200行实现原理&quot;文章</li>\n<li>[ ] 创建Colab notebook让用户体验OpenClow的AI能力</li>\n</ul>\n<h5>2️⃣ 开源策略</h5>\n<p><strong>关联点</strong>: Karpathy的全开源策略建立了巨大影响力</p>\n<ul>\n<li>他所有教程都开源，代码在GitHub</li>\n<li>这让他的内容能够被广泛传播和改进</li>\n<li>OpenClow作为开发者工具，可以学习这种策略</li>\n</ul>\n<p><strong>具体借鉴</strong>:</p>\n<ul>\n<li>[ ] OpenClow的核心教程和示例代码全部开源</li>\n<li>[ ] 鼓励社区fork和改进</li>\n<li>[ ] 建立类似karpathy.github.io的官方教程站</li>\n</ul>\n<h5>3️⃣ 简化思维</h5>\n<p><strong>关联点</strong>: Karpathy证明了&quot;简化&quot;是最强的教育工具</p>\n<ul>\n<li>OpenClow功能复杂，需要类似microgpt的&quot;最小可理解版本&quot;</li>\n<li>不是所有用户都需要理解全部，但应该提供简化路径</li>\n</ul>\n<p><strong>具体借鉴</strong>:</p>\n<ul>\n<li>[ ] 为OpenClow创建&quot;Hello World&quot;级别教程</li>\n<li>[ ] 提供&quot;5分钟理解OpenClow&quot;的简化版本</li>\n<li>[ ] 用类比和可视化解释复杂概念</li>\n</ul>\n<h4>可以借鉴的具体方法</h4>\n<div class=\"table-wrap\"><table><thead><tr><th>方法</th><th>描述</th><th>可行性</th><th>优先级</th></tr></thead><tbody><tr><td><strong>简化教程系列</strong></td><td>像&quot;microgpt&quot;一样，用最少代码展示核心原理</td><td>🔥 高</td><td>🔥 高</td></tr><tr><td><strong>从零实现系列</strong></td><td>&quot;OpenClow from scratch&quot; - 从第一性原理讲解</td><td>🔥 高</td><td>中</td></tr><tr><td><strong>Colab交互</strong></td><td>提供可运行的notebook，让用户体验</td><td>🔥 高</td><td>🔥 高</td></tr><tr><td><strong>开源所有内容</strong></td><td>教程、代码、示例全部开源</td><td>中</td><td>中</td></tr><tr><td><strong>YouTube视频</strong></td><td>制作技术讲解视频</td><td>中</td><td>低</td></tr></tbody></table></div>\n<h4>需要注意的风险</h4>\n<ol>\n<li><strong>更新频率低</strong>: Karpathy本人3个月不更新博客，不能指望他的实时动态</li>\n<li><strong>关注点在非盈利</strong>: 他专注于教育，不是商业模式参考</li>\n<li><strong>技术深度要求高</strong>: 他的内容需要一定技术基础，不适合完全新手</li>\n</ol>\n<hr>\n<h3>5. 行动建议</h3>\n<h4>短期可执行（本周内）</h4>\n<h5>1. 研究microgpt的教育设计</h5>\n<p><strong>原因</strong>: 这是简化AI教育的最佳案例 <strong>具体做法</strong>:</p>\n<ul>\n<li>[ ] 阅读microgpt完整代码和注释</li>\n<li>[ ] 分析他的代码组织和注释风格</li>\n<li>[ ] 总结&quot;如何用200行讲清楚GPT&quot;的方法论</li>\n<li>[ ] 写一份简短的分析报告</li>\n</ul>\n<p><strong>优先级</strong>: 🔥 高 <strong>预期收益</strong>: 为OpenClow的简化教程提供设计参考</p>\n<h5>2. 建立&quot;从零&quot;教程框架</h5>\n<p><strong>原因</strong>: Karpathy的核心竞争力是&quot;从零开始&quot; <strong>具体做法</strong>:</p>\n<ul>\n<li>[ ] 列出OpenClow的3个核心功能（如Agent、插件系统、AI集成）</li>\n<li>[ ] 为每个功能设计&quot;从零实现&quot;的大纲</li>\n<li>[ ] 确定第一步教程的主题（建议：最简单的Agent示例）</li>\n</ul>\n<p><strong>优先级</strong>: 🔥 高 <strong>预期收益</strong>: 建立OpenClow的内容差异化优势</p>\n<h5>3. 关注Karpathy的Twitter</h5>\n<p><strong>原因</strong>: 他的博客不更新，但Twitter活跃 <strong>具体做法</strong>:</p>\n<ul>\n<li>[ ] 团队中有人关注@karpathy</li>\n<li>[ ] 每周快速浏览他的推文（5分钟）</li>\n<li>[ ] 有价值的观点记录到共享文档</li>\n</ul>\n<p><strong>优先级</strong>: 中 <strong>预期收益</strong>: 获取他的实时观点，发现新趋势</p>\n<h4>中长期可考虑（本月内）</h4>\n<h5>1. 制作&quot;OpenClow Micro&quot;系列</h5>\n<p><strong>原因</strong>: 对标microgpt，建立技术权威性 <strong>具体做法</strong>:</p>\n<ul>\n<li>[ ] 设计&quot;100行Python实现OpenClow Agent&quot;教程</li>\n<li>[ ] 制作&quot;5分钟理解OpenClow&quot;视频</li>\n<li>[ ] 发布在博客、YouTube、GitHub</li>\n</ul>\n<p><strong>优先级</strong>: 中 <strong>预期收益</strong>: 吸引开发者用户，建立品牌认知</p>\n<h5>2. 建立Karpathy式的内容哲学</h5>\n<p><strong>原因</strong>: 他的内容虽然更新少，但影响力持久 <strong>具体做法</strong>:</p>\n<ul>\n<li>[ ] 定义&quot;OpenClow内容标准&quot;（如：必须可运行、必须从零开始）</li>\n<li>[ ] 优先质量而非数量</li>\n<li>[ ] 每个教程都追求&quot;无法再简化&quot;</li>\n</ul>\n<p><strong>优先级</strong>: 中 <strong>预期收益</strong>: 建立长期内容护城河</p>\n<hr>\n<h3>6. 追踪历史</h3>\n<pre><code>history:\n  - date: 2026-05-03\n    source: RSS + web_fetch\n    items_found: 10篇博客文章\n    insights:\n      - 最新: microgpt (2026-02-12)\n      - 确认博客低频（3个月未更新）\n      - 确认主要价值在已有教程和Twitter\n    status: ✅ 深度跟进完成\n\ntracking_schedule:\n  method: RSS（自动）+ Twitter（手动）\n  frequency: 每周检查RSS，每月浏览Twitter\n  next_check: 2026-05-10</code></pre>\n<hr>\n<h3>7. 附录：经典内容清单</h3>\n<h4>必读教程（持续有价值的）</h4>\n<ol>\n<li><strong>microgpt</strong> (2026) ⭐ 最新</li>\n</ol>\n<ul>\n<li>200行Python实现GPT</li>\n<li>完整训练+推理流程</li>\n<li>链接: <a href=\"https://karpathy.ai/microgpt.html\" target=\"_blank\" rel=\"noreferrer\">https://karpathy.ai/microgpt.html</a></li>\n</ul>\n<ol>\n<li><strong>A Recipe for Training Neural Networks</strong> (2019)</li>\n</ol>\n<ul>\n<li>神经网络训练的最佳实践</li>\n<li>至今仍是经典参考</li>\n<li>链接: <a href=\"http://karpathy.github.io/2019/04/25/recipe/\" target=\"_blank\" rel=\"noreferrer\">http://karpathy.github.io/2019/04/25/recipe/</a></li>\n</ul>\n<ol>\n<li><strong>Deep Reinforcement Learning: Pong from Pixels</strong> (2016)</li>\n</ol>\n<ul>\n<li>强化学习入门经典</li>\n<li>从像素到游戏的完整教程</li>\n<li>链接: <a href=\"http://karpathy.github.io/2016/05/31/rl/\" target=\"_blank\" rel=\"noreferrer\">http://karpathy.github.io/2016/05/31/rl/</a></li>\n</ul>\n<ol>\n<li><strong>Bitcoin from scratch</strong> (2021)</li>\n</ol>\n<ul>\n<li>从零实现比特币交易</li>\n<li>展示了他的&quot;从零开始&quot;方法论</li>\n<li>链接: <a href=\"http://karpathy.github.io/2021/06/21/blockchain/\" target=\"_blank\" rel=\"noreferrer\">http://karpathy.github.io/2021/06/21/blockchain/</a></li>\n</ul>\n<h4>YouTube系列</h4>\n<ul>\n<li>Neural Networks: Zero to Hero</li>\n<li>GPT系列</li>\n<li>Let&#039;s build GPT: from scratch, in code, spelled out</li>\n</ul>\n<hr>\n<p><strong>跟进完成时间</strong>: 2026-05-03 <strong>下次回顾</strong>: 2026-05-10（检查RSS） <strong>负责人</strong>: 前沿观察员 <strong>备注</strong>: 由于博客低频，重点应放在消化已有的经典教程，而非期待新内容</p>"
+    },
+    "activityScore": 3
+  },
+  {
+    "name": "Harrison Chase",
+    "slug": "harrison-chase",
+    "emoji": "🧩",
+    "role": "LangChain 创始人",
+    "focus": [
+      "AI Agent框架",
+      "RAG",
+      "LLM应用开发"
+    ],
+    "signal": "LangChain 生态的核心推动者，代表 Agent 基础设施方向。",
+    "links": [
+      {
+        "label": "Blog",
+        "url": "https://blog.langchain.dev/"
+      },
+      {
+        "label": "GitHub",
+        "url": "https://github.com/langchain-ai"
+      }
+    ],
+    "candidateDate": "2026-05-07",
+    "candidateLevel": "一级候选（3人）",
+    "recommendation": "构建了AI Agent开发的基础设施，\"写代码的布道者\"，既有技术深度又有实战价值",
+    "value": "LangChain是AI Agent开发的标配框架",
+    "recentUpdates": [],
+    "sourceProfile": null,
+    "activityScore": 3
+  },
+  {
+    "name": "Yohei Nakajima",
+    "slug": "yohei-nakajima",
+    "emoji": "🤖",
+    "role": "BabyAGI 创始人与投资人",
+    "focus": [
+      "AI Agent",
+      "自动化",
+      "创业投资"
+    ],
+    "signal": "兼具 VC 和 Builder 视角，持续实验 Agent 自动化工作流。",
+    "links": [
+      {
+        "label": "Website",
+        "url": "https://yoheinakajima.com/"
+      }
+    ],
+    "candidateDate": "2026-05-07",
+    "candidateLevel": "一级候选（3人）",
+    "recommendation": "作为VC+Builder组合，同时看到技术趋势和商业机会",
+    "value": "\"VC+Builder\"双重视角",
+    "recentUpdates": [],
+    "sourceProfile": null,
+    "activityScore": 3
+  },
+  {
+    "name": "Jerry Liu",
+    "slug": "jerry-liu",
+    "emoji": "🕸️",
+    "role": "LlamaIndex 创始人",
+    "focus": [
+      "LLM数据连接",
+      "RAG",
+      "知识图谱"
+    ],
+    "signal": "专注 LLM 应用的数据层，补齐 Agent 对外部知识的连接能力。",
+    "links": [
+      {
+        "label": "Blog",
+        "url": "https://www.llamaindex.ai/blog"
+      },
+      {
+        "label": "GitHub",
+        "url": "https://github.com/run-llama/llama_index"
+      }
+    ],
+    "candidateDate": "2026-05-07",
+    "candidateLevel": "一级候选（3人）",
+    "recommendation": "专注于LLM应用的数据层，与LangChain形成生态互补",
+    "value": "与LangChain形成互补",
+    "recentUpdates": [],
+    "sourceProfile": null,
+    "activityScore": 3
+  }
+]
