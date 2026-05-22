@@ -1,5 +1,7 @@
 # 前沿观察展示网站
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 纯静态网站，用于展示前沿观察员同步出的日报、周报、专题和思想者档案。
 
 ## 使用
