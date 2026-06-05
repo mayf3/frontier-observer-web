@@ -5,7 +5,7 @@
     "sortKey": "2026-05-07",
     "title": "每日前沿探索 - 2026-05-07",
     "excerpt": "- 搜索关键词：5个 - 发现新思想者：4位 - 进入候选清单：4位 - 领域：AI Agent框架、RAG、LLM应用开发 - 关联度：★★★★★（AI Agent基础设施核心人物） - 价值：LangChain是AI Agent开发的标配框架 - 链接： - Twitter: @hwchase2...",
-    "sourcePath": "WORKSPACE_DIR/candidates/daily/2026-05-07.md",
+    "sourcePath": "${WORKSPACE_DIR}/candidates/daily/2026-05-07.md",
     "candidates": [
       {
         "name": "Harrison Chase",

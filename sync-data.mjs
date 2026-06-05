@@ -6,10 +6,10 @@ const SITE_ROOT = path.dirname(fileURLToPath(import.meta.url));
 const DATA_DIR = path.join(SITE_ROOT, "data");
 const REPORT_ROOT =
   process.env.REPORT_ROOT ||
-  "WORKSPACE_DIR/reports";
+  path.join(SITE_ROOT, "reports");
 const CANDIDATES_ROOT =
   process.env.CANDIDATES_ROOT ||
-  "WORKSPACE_DIR/candidates";
+  path.join(SITE_ROOT, "candidates");
 
 const thinkerSeeds = [
   {

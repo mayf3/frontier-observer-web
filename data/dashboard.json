@@ -12,7 +12,7 @@
     "sortKey": "2026-05-09",
     "title": "前沿话题日报 — 2026年5月9日（周五）",
     "excerpt": "数据源：Hacker News Top Stories、Lobsters | 抓取时间：2026-05-09 02:36 CST - 链接：https://www.openwall.com/lists/oss-security/2026/05/07/8 - 热度：HN 1181分 + 822评论 /...",
-    "sourcePath": "WORKSPACE_DIR/reports/daily/2026-05-09.md",
+    "sourcePath": "${WORKSPACE_DIR}/reports/daily/2026-05-09.md",
     "tags": [
       "直接相关",
       "Mojo 1.0 Beta",
@@ -82,7 +82,7 @@
     "sortKey": "2026-W19",
     "title": "前沿观察员周报",
     "excerpt": "1. Simon Willison最新更新（2026-05-05）：datasette-referrer-policy 0.1... datasette-referrer-policy 0.1 Release: datasette-referrer-policy 0.1 The OpenStreet...",
-    "sourcePath": "WORKSPACE_DIR/reports/weekly/2026-W19.md",
+    "sourcePath": "${WORKSPACE_DIR}/reports/weekly/2026-W19.md",
     "tags": [
       "Simon Willison",
       "本周亮点",
@@ -165,7 +165,7 @@
     "sortKey": "2026-W18",
     "title": "前沿话题追踪",
     "excerpt": "2026-05-08 19:43 🔥 最热领域：AI/LLM（4条讨论） ⚠️ AI讨论焦点：定价和幻觉问题成为热点 🛡️ 安全动态：隐私和安全议题值得关注 🌱 新兴领域：Remote Work, Gaming, Developer Tools - （GPT模型 · 价格 · 成本 · 涨价/...",
-    "sourcePath": "WORKSPACE_DIR/reports/topics/2026-W18.md",
+    "sourcePath": "${WORKSPACE_DIR}/reports/topics/2026-W18.md",
     "tags": [
       "今日洞察",
       "AI/LLM",

@@ -5,7 +5,7 @@
     "sortKey": "2026-W18",
     "title": "前沿话题追踪",
     "excerpt": "2026-05-08 19:43 🔥 最热领域：AI/LLM（4条讨论） ⚠️ AI讨论焦点：定价和幻觉问题成为热点 🛡️ 安全动态：隐私和安全议题值得关注 🌱 新兴领域：Remote Work, Gaming, Developer Tools - （GPT模型 · 价格 · 成本 · 涨价/...",
-    "sourcePath": "WORKSPACE_DIR/reports/topics/2026-W18.md",
+    "sourcePath": "${WORKSPACE_DIR}/reports/topics/2026-W18.md",
     "tags": [
       "今日洞察",
       "AI/LLM",

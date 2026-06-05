@@ -5,7 +5,7 @@
     "sortKey": "2026-W19",
     "title": "前沿观察员周报",
     "excerpt": "1. Simon Willison最新更新（2026-05-05）：datasette-referrer-policy 0.1... datasette-referrer-policy 0.1 Release: datasette-referrer-policy 0.1 The OpenStreet...",
-    "sourcePath": "WORKSPACE_DIR/reports/weekly/2026-W19.md",
+    "sourcePath": "${WORKSPACE_DIR}/reports/weekly/2026-W19.md",
     "tags": [
       "Simon Willison",
       "本周亮点",
@@ -88,7 +88,7 @@
     "sortKey": "2026-W18",
     "title": "2026年第18周 - 前沿思想者趋势追踪",
     "excerpt": "- 核心观点：AI 编码代理可以在手机上构建定制应用，这是 iPhone 主导地位终结的开始 - 原文：https://nav.al/code - 关联：OpenClaw 的 ACP harness 正是这种实践 - 核心观点：露营时用手机 + Claude Code 构建工具，3天发布3个工具 -...",
-    "sourcePath": "WORKSPACE_DIR/reports/weekly/2026-W18.md",
+    "sourcePath": "${WORKSPACE_DIR}/reports/weekly/2026-W18.md",
     "tags": [
       "核心观点",
       "原文",

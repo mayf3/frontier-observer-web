@@ -1,8 +1,8 @@
 {
   "generatedAt": "2026-05-08T23:21:55.253Z",
   "source": {
-    "reports": "WORKSPACE_DIR/reports",
-    "candidates": "WORKSPACE_DIR/candidates"
+    "reports": "${WORKSPACE_DIR}/reports",
+    "candidates": "${WORKSPACE_DIR}/candidates"
   },
   "counts": {
     "daily": 1,

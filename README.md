@@ -22,7 +22,7 @@ http://localhost:8088/
 默认源目录：
 
 ```text
-WORKSPACE_DIR
+WORKSPACE_DIR 环境变量
 ```
 
 重新同步时只需要运行：

@@ -5,7 +5,7 @@
     "sortKey": "2026-05-09",
     "title": "前沿话题日报 — 2026年5月9日（周五）",
     "excerpt": "数据源：Hacker News Top Stories、Lobsters | 抓取时间：2026-05-09 02:36 CST - 链接：https://www.openwall.com/lists/oss-security/2026/05/07/8 - 热度：HN 1181分 + 822评论 /...",
-    "sourcePath": "WORKSPACE_DIR/reports/daily/2026-05-09.md",
+    "sourcePath": "${WORKSPACE_DIR}/reports/daily/2026-05-09.md",
     "tags": [
       "直接相关",
       "Mojo 1.0 Beta",
